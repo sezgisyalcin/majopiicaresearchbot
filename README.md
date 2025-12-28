@@ -1,29 +1,26 @@
+# Academic Twitch Bot (Railway-ready)
 
-Core principles:
-- Academic / Institutional links only
-- Wikipedia / Wikidata / DBpedia excluded
-- English-only output
-- Curated content packs + registry-based expansion
-- Railway worker compatible
+English-only Twitch chat bot built around an **Academic/Institutional links-only** policy.
+No Wikipedia/Wikidata/DBpedia links are allowed.
 
-Included feature domains:
-- History (OnThisDay, timelines, eras, debates)
-- People (curated academic profiles, conservative)
-- Cuisine (alcohol, fermentation, ice cream, desserts, pastry science, food studies)
-- Fashion (journals, museums, archives, theory, sustainability, law, technology, colonialism)
-- Linguistics (Italian phonology, pronunciation, historical linguistics, neurolinguistics)
-- Meta-academic tools (reading lists, methodology, theory maps, where to publish)
-- Official global weather (WMO / NMHS)
-- Community tools (quiz, flashcards, study challenge)
+## Deploy on Railway
+1. Push this repo to GitHub
+2. Railway -> New Project -> Deploy from GitHub Repo
+3. Add Variables:
+   - TWITCH_OAUTH_TOKEN = oauth:xxxxx (from the bot account)
+   - TWITCH_CHANNEL = yourchannel (no #)
+   - GLOBAL_COOLDOWN_S = 2 (optional)
+   - USER_COOLDOWN_S = 12 (optional)
+   - CMD_COOLDOWN_S = 2 (optional)
+4. Redeploy.
 
-This package is intentionally structured so you can:
-- Add new academic sources without touching code
-- Expand to new countries or disciplines
-- Deploy directly on Railway
+## Quick test in Twitch chat
+- !help
+- !examples
+- !fashion representation
+- !desserts
+- !weather Rome
 
-NEXT STEPS:
-1. Upload this repository to GitHub
-2. Connect Railway -> Deploy from GitHub
-3. Add environment variables (see env.example)
-4. Start the worker
-
+## Content management (no code needed)
+- `data/registry.yaml`: allowlisted domains + source catalogs
+- `data/packs/`: curated cards (optional). If a card is missing, commands fall back to links-only.
