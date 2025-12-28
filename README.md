@@ -1,8 +1,4 @@
 
-ACADEMIC TWITCH BOT – RICH STARTER PACK (ENGLISH ONLY)
-
-This ZIP contains a Railway-ready Twitch bot project designed as a GLOBAL ACADEMIC HUB.
-
 Core principles:
 - Academic / Institutional links only
 - Wikipedia / Wikidata / DBpedia excluded
@@ -31,4 +27,3 @@ NEXT STEPS:
 3. Add environment variables (see env.example)
 4. Start the worker
 
-Enjoy building a benchmark academic bot.
