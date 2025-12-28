@@ -1,7 +1,4 @@
-# Academic Twitch Bot (Railway-ready)
 
-English-only Twitch chat bot built around an **Academic/Institutional links-only** policy.
-No Wikipedia/Wikidata/DBpedia links are allowed.
 
 ## Deploy on Railway
 1. Push this repo to GitHub
