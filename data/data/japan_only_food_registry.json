@@ -1,0 +1,72 @@
+{
+  "items": [
+    {
+      "name": "Tokyo Banana",
+      "country": "Japan",
+      "region": "Tokyo",
+      "description": "Tokyo souvenir confection (banana-flavoured sponge cake), marketed primarily for the Japanese omiyage market.",
+      "sources": [
+        "Official site: https://www.tokyobanana.jp"
+      ],
+      "note": "Primarily Japan-market brands; availability abroad varies by exporter."
+    },
+    {
+      "name": "Shiroi Koibito",
+      "country": "Japan",
+      "region": "Hokkaido",
+      "description": "Hokkaido souvenir sweet produced by Ishiya; well-known omiyage product line.",
+      "sources": [
+        "Official site: https://www.ishiya.co.jp/"
+      ]
+    },
+    {
+      "name": "Yatsuhashi (Kyoto sweets)",
+      "country": "Japan",
+      "region": "Kyoto",
+      "description": "Traditional Kyoto confection category; many producers, often sold locally as omiyage.",
+      "sources": [
+        "Kyoto City tourism (background): https://kyoto.travel/en"
+      ]
+    },
+    {
+      "name": "Kameda Seika (Rice crackers)",
+      "country": "Japan",
+      "description": "Japanese snack company known for senbei and rice crackers.",
+      "sources": [
+        "Official site: https://www.kamedaseika.co.jp/"
+      ]
+    },
+    {
+      "name": "Yoku Moku",
+      "country": "Japan",
+      "description": "Japanese confectionery brand known for cigar-shaped cookies (Cigare).",
+      "sources": [
+        "Official site: https://www.yokumoku.jp/"
+      ]
+    },
+    {
+      "name": "Jagarico",
+      "country": "Japan",
+      "description": "Japanese potato-stick snack brand by Calbee, with many Japan-exclusive flavours.",
+      "sources": [
+        "Official brand page (Calbee): https://www.calbee.co.jp/"
+      ]
+    },
+    {
+      "name": "Alfort",
+      "country": "Japan",
+      "description": "Chocolate-and-biscuit product line by Bourbon (Japan).",
+      "sources": [
+        "Official site (Bourbon): https://www.bourbon.co.jp/"
+      ]
+    },
+    {
+      "name": "UHA Mikakuto",
+      "country": "Japan",
+      "description": "Japanese confectionery company (candies, gummies) with many Japan-market product lines.",
+      "sources": [
+        "Official site: https://www.uha-mikakuto.co.jp/"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,233 @@
+{
+  "dataset": "anime_drawing_techniques",
+  "version": "1.0.0",
+  "language": "en",
+  "policy": {
+    "tone": "academic-neutral",
+    "scope": "anime production and drawing/animation techniques (non-software specific)",
+    "restrictions": [
+      "No fandom slang",
+      "No Wikipedia-derived prose",
+      "No tutorial imperatives",
+      "Provide institutional entry-point references"
+    ]
+  },
+  "items": [
+    {
+      "id": "limited_animation_anime",
+      "label": "Limited Animation (Anime Context)",
+      "definition": "A production strategy that prioritizes key poses and selective motion over continuous full-frame movement.",
+      "extended": "In many anime production contexts, limited animation reallocates labor toward expressive key frames, composition, and timing, while using holds or partial redraws to manage production constraints.",
+      "tags": [
+        "production",
+        "timing",
+        "motion"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Animation/film learning resources",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "Japan Foundation — arts & culture programs (entry point)",
+          "url": "https://www.jpf.go.jp/"
+        }
+      ]
+    },
+    {
+      "id": "key_frame_emphasis",
+      "label": "Key Frame Emphasis",
+      "definition": "An emphasis on strong key poses as primary carriers of expression and narrative clarity.",
+      "extended": "Key frame emphasis treats the key drawing as a communicative unit that can sustain meaning even with fewer inbetweens, relying on pose design, staging, and timing to maintain legibility.",
+      "tags": [
+        "production",
+        "character",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "MoMA — Film & Media (collection context)",
+          "url": "https://www.moma.org/"
+        },
+        {
+          "label": "BFI — Learning resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "smear_frames",
+      "label": "Smear Frames (Hand-Drawn)",
+      "definition": "Deliberate distortion of form within a single drawing to encode rapid motion between positions.",
+      "extended": "Smear frames function as stylized motion signs that strengthen perceived speed when spacing is wide or when intermediate drawings are reduced.",
+      "tags": [
+        "motion",
+        "timing",
+        "line"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Animation learning resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "symbolic_motion_cues",
+      "label": "Symbolic Motion Cues",
+      "definition": "Graphic signs such as motion lines or simplified deformation used to represent direction, force, or impact.",
+      "extended": "Symbolic cues support expressive economy by communicating dynamics without increasing drawing density, and are common in stylized animation systems.",
+      "tags": [
+        "line",
+        "motion",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "expressive_economy",
+      "label": "Expressive Economy",
+      "definition": "A strategy of achieving narrative or emotional impact with minimal visual information.",
+      "extended": "Expressive economy reallocates detail toward salient cues such as silhouette and facial expression, often under production constraints.",
+      "tags": [
+        "analysis",
+        "production",
+        "character"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Film/animation resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "animation_timing_holds",
+      "label": "Timing with Holds",
+      "definition": "A timing approach that uses held drawings to shape rhythm and emphasis without continuous redraw.",
+      "extended": "Holds can function as expressive punctuation, reallocating labor to moments of change such as facial emphasis or camera motion.",
+      "tags": [
+        "timing",
+        "production",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "layout_staging_anime",
+      "label": "Staging via Composition",
+      "definition": "Compositional design that clarifies intent and focus, especially under selective motion.",
+      "extended": "Staging in anime contexts often coordinates silhouette, eye-line, and background structure to preserve clarity with limited redraw.",
+      "tags": [
+        "layout",
+        "story",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "effects_lines",
+      "label": "Effects Lines and Impact Signs",
+      "definition": "Graphic marks used to represent force, impact, or speed as conventionalized cues.",
+      "extended": "These signs communicate dynamics efficiently and support legibility when motion density is reduced.",
+      "tags": [
+        "line",
+        "motion",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "camera_hold_pan",
+      "label": "Camera Hold and Pan Logic",
+      "definition": "Using static character drawings with camera movement to create perceived motion.",
+      "extended": "Camera motion can carry scene energy while preserving drawing economy, provided spatial continuity is maintained in layout.",
+      "tags": [
+        "camera",
+        "production",
+        "background"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "key_animation_priority",
+      "label": "Key Animation Priority",
+      "definition": "Prioritizing expressive key drawings as the primary carriers of acting and emotion.",
+      "extended": "This approach supports strong affect and narrative clarity, especially when inbetween density is constrained.",
+      "tags": [
+        "character",
+        "production",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "MoMA — Film & Media (collection context)",
+          "url": "https://www.moma.org/"
+        }
+      ]
+    },
+    {
+      "id": "line_cleanup_anime",
+      "label": "Line Stabilization in Clean-Up",
+      "definition": "Stabilizing stroke behavior and junction clarity to reduce flicker across frames.",
+      "extended": "Line stabilization supports consistent form identity and improves readability under motion and compression.",
+      "tags": [
+        "cleanup",
+        "line",
+        "production"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "background_plane_separation",
+      "label": "Background Plane Separation",
+      "definition": "Separating background elements into planes to manage redraw and depth cues.",
+      "extended": "Plane separation can support parallax and preserve figure emphasis by isolating motion to specific layers.",
+      "tags": [
+        "background",
+        "production",
+        "camera"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    }
+  ]
+}

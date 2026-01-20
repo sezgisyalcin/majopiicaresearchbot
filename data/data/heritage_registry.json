@@ -1,0 +1,125 @@
+{
+  "items": [
+    {
+      "name": "Göreme National Park and the Rock Sites of Cappadocia",
+      "type": "Mixed (Cultural & Natural)",
+      "country": "Turkey",
+      "region": "Europe and North America",
+      "description": "Volcanic landscape with rock-cut sanctuaries and underground settlements on the UNESCO World Heritage List.",
+      "sources": [
+        "UNESCO WHC (List): https://whc.unesco.org/en/list/357",
+        "UNESCO WHC database: https://whc.unesco.org/en/list/"
+      ]
+    },
+    {
+      "name": "Historic Areas of Istanbul",
+      "type": "Cultural",
+      "country": "Turkey",
+      "region": "Europe and North America",
+      "description": "Historic peninsula including major monuments from Byzantine and Ottoman periods, UNESCO-listed.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/356"
+      ]
+    },
+    {
+      "name": "Taj Mahal",
+      "type": "Cultural",
+      "country": "India",
+      "region": "Asia and the Pacific",
+      "description": "17th-century mausoleum in Agra, UNESCO World Heritage List.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/252"
+      ]
+    },
+    {
+      "name": "Galápagos Islands",
+      "type": "Natural",
+      "country": "Ecuador",
+      "region": "Latin America and the Caribbean",
+      "description": "Oceanic archipelago notable for endemic species and conservation significance, UNESCO-listed.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/1"
+      ]
+    },
+    {
+      "name": "Great Barrier Reef",
+      "type": "Natural",
+      "country": "Australia",
+      "region": "Asia and the Pacific",
+      "description": "Largest coral reef ecosystem, UNESCO World Heritage List.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/154"
+      ]
+    },
+    {
+      "name": "Serengeti National Park",
+      "type": "Natural",
+      "country": "Tanzania",
+      "region": "Africa",
+      "description": "Savannah ecosystem known for annual migration and biodiversity, UNESCO-listed.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/156"
+      ]
+    },
+    {
+      "name": "Machu Picchu",
+      "type": "Mixed (Cultural & Natural)",
+      "country": "Peru",
+      "region": "Latin America and the Caribbean",
+      "description": "Inca sanctuary in the Andes; UNESCO World Heritage property.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/274"
+      ]
+    },
+    {
+      "name": "Pyramids of Giza (Memphis and its Necropolis)",
+      "type": "Cultural",
+      "country": "Egypt",
+      "region": "Arab States",
+      "description": "Ancient Egyptian archaeological area including the Giza pyramids; UNESCO-listed property.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/86"
+      ]
+    },
+    {
+      "name": "Stonehenge, Avebury and Associated Sites",
+      "type": "Cultural",
+      "country": "United Kingdom",
+      "region": "Europe and North America",
+      "description": "Neolithic and Bronze Age ceremonial landscapes inscribed on the UNESCO World Heritage List.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/373"
+      ]
+    },
+    {
+      "name": "Venice and its Lagoon",
+      "type": "Cultural",
+      "country": "Italy",
+      "region": "Europe and North America",
+      "description": "Historic city and lagoon system; UNESCO World Heritage property.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/394"
+      ]
+    },
+    {
+      "name": "Yellowstone National Park",
+      "type": "Natural",
+      "country": "United States of America",
+      "region": "Europe and North America",
+      "description": "Geothermal features and ecosystems; UNESCO World Heritage property.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/28"
+      ]
+    },
+    {
+      "name": "Angkor",
+      "type": "Cultural",
+      "country": "Cambodia",
+      "region": "Asia and the Pacific",
+      "description": "Archaeological park containing Khmer temples and urban structures; UNESCO-listed.",
+      "sources": [
+        "UNESCO WHC: https://whc.unesco.org/en/list/668"
+      ]
+    }
+  ]
+}

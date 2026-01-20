@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-1",
+      "pref_label": "Idiophones",
+      "notation": "1"
+    },
+    {
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-2",
+      "pref_label": "Membranophones",
+      "notation": "2"
+    },
+    {
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-3",
+      "pref_label": "Chordophones",
+      "notation": "3"
+    },
+    {
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-4",
+      "pref_label": "Aerophones",
+      "notation": "4"
+    },
+    {
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-5",
+      "pref_label": "Electrophones",
+      "notation": "5"
+    }
+  ],
+  "meta": {
+    "mode": "seed",
+    "sparql_endpoint": null
+  }
+}

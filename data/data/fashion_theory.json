@@ -1,0 +1,20 @@
+{
+  "habitus": {
+    "label": "Habitus (Pierre Bourdieu)",
+    "short": "A system of durable dispositions shaping taste, practice, and cultural perception.",
+    "extended": "Bourdieu\u2019s concept describing how social structures are internalized and expressed through practices such as dress and taste.",
+    "research": "Consult Bourdieu\u2019s works and university sociology departments for peer-reviewed discussions of habitus in fashion studies."
+  },
+  "semiotics": {
+    "label": "Fashion Semiotics",
+    "short": "The study of clothing as a system of signs and meaning.",
+    "extended": "Often associated with Roland Barthes; analyzes garments as cultural texts within sign systems.",
+    "research": "Use university literature departments and fashion theory journals indexed by academic libraries."
+  },
+  "cultural_capital": {
+    "label": "Cultural Capital",
+    "short": "Non-economic assets that enable social mobility, including style and taste.",
+    "extended": "A core concept in sociological analyses of fashion, consumption, and distinction.",
+    "research": "Refer to institutional sociology and cultural studies publications."
+  }
+}

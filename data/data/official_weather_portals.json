@@ -1,0 +1,131 @@
+{
+  "version": "2026-01-16",
+  "note": "Seed list + WMO WWIS fallback. For full global coverage, use WWIS members directory.",
+  "countries": [
+    {
+      "country": "United States",
+      "code": "US",
+      "service": "NOAA / National Weather Service",
+      "official_portal": "https://www.weather.gov/",
+      "search_template": "https://www.weather.gov/search?query={q}",
+      "api": "https://api.weather.gov"
+    },
+    {
+      "country": "United Kingdom",
+      "code": "UK",
+      "service": "Met Office",
+      "official_portal": "https://www.metoffice.gov.uk/",
+      "search_template": "https://www.metoffice.gov.uk/search?query={q}"
+    },
+    {
+      "country": "Canada",
+      "code": "CA",
+      "service": "Environment and Climate Change Canada",
+      "official_portal": "https://weather.gc.ca/",
+      "search_template": "https://weather.gc.ca/city/pages/index_e.html"
+    },
+    {
+      "country": "Australia",
+      "code": "AU",
+      "service": "Bureau of Meteorology",
+      "official_portal": "http://www.bom.gov.au/",
+      "search_template": "http://www.bom.gov.au/search/?query={q}"
+    },
+    {
+      "country": "Japan",
+      "code": "JP",
+      "service": "Japan Meteorological Agency (JMA)",
+      "official_portal": "https://www.jma.go.jp/jma/indexe.html",
+      "search_template": "https://www.jma.go.jp/jma/en/Search/?keyword={q}"
+    },
+    {
+      "country": "Italy",
+      "code": "IT",
+      "service": "Protezione Civile (official portal entry points)",
+      "official_portal": "https://www.protezionecivile.gov.it/en/",
+      "search_template": "https://www.protezionecivile.gov.it/en/search/?q={q}"
+    },
+    {
+      "country": "Germany",
+      "code": "DE",
+      "service": "Deutscher Wetterdienst (DWD)",
+      "official_portal": "https://www.dwd.de/",
+      "search_template": "https://www.dwd.de/EN/search/search_node.html?query={q}"
+    },
+    {
+      "country": "France",
+      "code": "FR",
+      "service": "Météo-France",
+      "official_portal": "https://meteofrance.com/",
+      "search_template": "https://meteofrance.com/recherche?query={q}"
+    },
+    {
+      "country": "Spain",
+      "code": "ES",
+      "service": "AEMET",
+      "official_portal": "https://www.aemet.es/",
+      "search_template": "https://www.aemet.es/en/busqueda?texto={q}"
+    },
+    {
+      "country": "Turkey",
+      "code": "TR",
+      "service": "Turkish State Meteorological Service (MGM)",
+      "official_portal": "https://www.mgm.gov.tr/",
+      "search_template": "https://www.mgm.gov.tr/arama.aspx?arama={q}"
+    },
+    {
+      "country": "Netherlands",
+      "code": "NL",
+      "service": "KNMI",
+      "official_portal": "https://www.knmi.nl/",
+      "search_template": "https://www.knmi.nl/zoeken?q={q}"
+    },
+    {
+      "country": "Sweden",
+      "code": "SE",
+      "service": "SMHI",
+      "official_portal": "https://www.smhi.se/",
+      "search_template": "https://www.smhi.se/en/search?query={q}"
+    },
+    {
+      "country": "Finland",
+      "code": "FI",
+      "service": "Finnish Meteorological Institute (FMI)",
+      "official_portal": "https://en.ilmatieteenlaitos.fi/",
+      "search_template": "https://en.ilmatieteenlaitos.fi/search?query={q}"
+    },
+    {
+      "country": "Switzerland",
+      "code": "CH",
+      "service": "MeteoSwiss",
+      "official_portal": "https://www.meteoswiss.admin.ch/",
+      "search_template": "https://www.meteoswiss.admin.ch/home/search.html?query={q}"
+    },
+    {
+      "country": "New Zealand",
+      "code": "NZ",
+      "service": "MetService",
+      "official_portal": "https://www.metservice.com/",
+      "search_template": "https://www.metservice.com/search?q={q}"
+    },
+    {
+      "country": "Brazil",
+      "code": "BR",
+      "service": "INMET",
+      "official_portal": "https://portal.inmet.gov.br/",
+      "search_template": "https://portal.inmet.gov.br/busca?q={q}"
+    },
+    {
+      "country": "India",
+      "code": "IN",
+      "service": "India Meteorological Department (IMD)",
+      "official_portal": "https://mausam.imd.gov.in/",
+      "search_template": "https://mausam.imd.gov.in/search?q={q}"
+    }
+  ],
+  "wmo_wwis": {
+    "members_url": "https://worldweather.wmo.int/en/members.html",
+    "home_url": "https://worldweather.wmo.int/",
+    "note": "WMO World Weather Information Service provides official forecasts for selected cities supplied by national meteorological services."
+  }
+}

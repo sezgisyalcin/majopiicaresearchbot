@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Leonardo da Vinci",
+    "domain": "painting / engineering",
+    "period": "Renaissance",
+    "one_line": "Key figure of the Italian Renaissance; interdisciplinary practice spanning art and technical inquiry.",
+    "institutional_sources": [
+      {
+        "label": "The National Gallery (UK) · Research",
+        "url": "https://www.nationalgallery.org.uk/research",
+        "kind": "museum"
+      },
+      {
+        "label": "Uffizi Galleries (official)",
+        "url": "https://www.uffizi.it/en",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Michelangelo Buonarroti",
+    "domain": "sculpture / painting / architecture",
+    "period": "Renaissance",
+    "one_line": "High Renaissance master associated with sculpture, painting, and architectural commissions.",
+    "institutional_sources": [
+      {
+        "label": "Vatican Museums (official)",
+        "url": "https://www.museivaticani.va/",
+        "kind": "museum"
+      },
+      {
+        "label": "The National Gallery (UK) · Research",
+        "url": "https://www.nationalgallery.org.uk/research",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Caravaggio",
+    "domain": "painting",
+    "period": "Baroque",
+    "one_line": "Baroque painter often discussed for dramatic naturalism and chiaroscuro in early modern art history.",
+    "institutional_sources": [
+      {
+        "label": "The National Gallery (UK) · Research",
+        "url": "https://www.nationalgallery.org.uk/research",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Artemisia Gentileschi",
+    "domain": "painting",
+    "period": "Baroque",
+    "one_line": "Baroque painter frequently studied in early modern art history scholarship.",
+    "institutional_sources": [
+      {
+        "label": "The National Gallery (UK) · Research",
+        "url": "https://www.nationalgallery.org.uk/research",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Andrea Palladio",
+    "domain": "architecture",
+    "period": "Renaissance",
+    "one_line": "Renaissance architect whose work is central to architectural history and theory of proportion.",
+    "institutional_sources": [
+      {
+        "label": "IUAV University of Venice (official)",
+        "url": "https://www.iuav.it/en/",
+        "kind": "university"
+      },
+      {
+        "label": "Politecnico di Milano (official)",
+        "url": "https://www.polimi.it/en",
+        "kind": "university"
+      }
+    ]
+  },
+  {
+    "name": "Gio Ponti",
+    "domain": "architecture / design",
+    "period": "Modern",
+    "one_line": "Modern architect and designer studied in 20th-century architecture and design histories.",
+    "institutional_sources": [
+      {
+        "label": "Politecnico di Milano (official)",
+        "url": "https://www.polimi.it/en",
+        "kind": "university"
+      },
+      {
+        "label": "MAXXI (official)",
+        "url": "https://www.maxxi.art/en/",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Renzo Piano",
+    "domain": "architecture",
+    "period": "Contemporary",
+    "one_line": "Contemporary architect widely discussed in architectural scholarship and institutional archives.",
+    "institutional_sources": [
+      {
+        "label": "Politecnico di Milano (official)",
+        "url": "https://www.polimi.it/en",
+        "kind": "university"
+      },
+      {
+        "label": "MAXXI (official)",
+        "url": "https://www.maxxi.art/en/",
+        "kind": "museum"
+      }
+    ]
+  },
+  {
+    "name": "Dario Fo",
+    "domain": "theatre / literature",
+    "period": "Contemporary",
+    "one_line": "Italian playwright and performer; studied within theatre and performance scholarship.",
+    "institutional_sources": [
+      {
+        "label": "University of Bologna (official)",
+        "url": "https://www.unibo.it/en",
+        "kind": "university"
+      },
+      {
+        "label": "Harvard University (official)",
+        "url": "https://www.harvard.edu/",
+        "kind": "university"
+      }
+    ]
+  },
+  {
+    "name": "Federico Fellini",
+    "domain": "film",
+    "period": "Modern",
+    "one_line": "Film director central to film studies discourse; referenced across university film curricula and archives.",
+    "institutional_sources": [
+      {
+        "label": "NYU (official)",
+        "url": "https://www.nyu.edu/",
+        "kind": "university"
+      },
+      {
+        "label": "University of Bologna (official)",
+        "url": "https://www.unibo.it/en",
+        "kind": "university"
+      }
+    ]
+  }
+]

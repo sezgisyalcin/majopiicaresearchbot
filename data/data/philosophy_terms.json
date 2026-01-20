@@ -1,0 +1,20 @@
+{
+  "moral_fault": {
+    "label": "Moral fault (moral philosophy)",
+    "notes_short": "A normative concept used to analyze wrongdoing, responsibility, and moral evaluation.",
+    "notes_extended": "Used across moral philosophy to discuss blameworthiness, culpability, and ethical assessment frameworks.",
+    "notes_research": "Research routing: consult SEP entries on responsibility, moral responsibility, blame, and related normative ethics topics."
+  },
+  "game_theory": {
+    "label": "Game theory (theoretical-only)",
+    "notes_short": "Formal study of strategic interaction under specified rules and payoffs. Theoretical-only.",
+    "notes_extended": "Core topics include equilibrium concepts, strategic vs extensive forms, and rational choice under interdependence. Theoretical-only.",
+    "notes_research": "Research routing: consult institutional economics/philosophy/mathematics references; theoretical-only. No video game examples."
+  },
+  "nash_equilibrium": {
+    "label": "Nash equilibrium (theoretical-only)",
+    "notes_short": "A solution concept where no player can improve payoff by unilateral deviation, given others' strategies. Theoretical-only.",
+    "notes_extended": "Central to non-cooperative game theory; formal definition depends on strategy sets and payoff functions. Theoretical-only.",
+    "notes_research": "Research routing: consult institutional game theory/economics references; theoretical-only. No video game examples."
+  }
+}

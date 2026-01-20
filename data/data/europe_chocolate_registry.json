@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "name": "Lindt",
+      "country": "Switzerland",
+      "description": "Swiss chocolate company; official brand site contains corporate history and product catalogue.",
+      "sources": [
+        "Official site: https://www.lindt.com"
+      ]
+    },
+    {
+      "name": "Toblerone",
+      "country": "Switzerland",
+      "description": "Triangular chocolate bar brand originally created in Bern.",
+      "sources": [
+        "Official site: https://www.toblerone.com"
+      ]
+    },
+    {
+      "name": "Valrhona",
+      "country": "France",
+      "description": "French chocolate manufacturer known for couverture chocolate and professional pastry use.",
+      "sources": [
+        "Official site: https://www.valrhona.com"
+      ]
+    },
+    {
+      "name": "Neuhaus",
+      "country": "Belgium",
+      "description": "Belgian chocolatier associated with the praline tradition.",
+      "sources": [
+        "Official site: https://www.neuhauschocolates.com"
+      ]
+    },
+    {
+      "name": "Godiva",
+      "country": "Belgium",
+      "description": "Belgian-origin chocolate brand with global distribution.",
+      "sources": [
+        "Official site: https://www.godiva.com"
+      ]
+    },
+    {
+      "name": "Côte d'Or",
+      "country": "Belgium",
+      "description": "Belgian chocolate brand (lion emblem).",
+      "sources": [
+        "Official site: https://www.cotedor.com"
+      ]
+    },
+    {
+      "name": "Ritter Sport",
+      "country": "Germany",
+      "description": "German square chocolate brand.",
+      "sources": [
+        "Official site: https://www.ritter-sport.com"
+      ]
+    },
+    {
+      "name": "Milka",
+      "country": "Germany",
+      "description": "European chocolate brand recognized for its lilac packaging.",
+      "sources": [
+        "Official site: https://www.milka.com"
+      ]
+    },
+    {
+      "name": "Ferrero Rocher",
+      "country": "Italy",
+      "description": "Italian confectionery brand (hazelnut praline spheres).",
+      "sources": [
+        "Official site: https://www.ferrerorocher.com"
+      ]
+    },
+    {
+      "name": "Cadbury (UK)",
+      "country": "United Kingdom",
+      "description": "Historic British chocolate brand.",
+      "sources": [
+        "Official site: https://www.cadbury.co.uk"
+      ]
+    }
+  ]
+}

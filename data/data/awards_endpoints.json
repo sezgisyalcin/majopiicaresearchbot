@@ -1,0 +1,28 @@
+{
+  "bafta": {
+    "label": "BAFTA \u00b7 Awards Search",
+    "type": "official_archive",
+    "templates": [
+      "https://www.bafta.org/awards/search/?query={year}",
+      "https://www.bafta.org/awards/games/"
+    ],
+    "notes": "Uses BAFTA's official search endpoint with a year query parameter."
+  },
+  "the_game_awards": {
+    "label": "The Game Awards",
+    "type": "official_archive",
+    "templates": [
+      "https://thegameawards.com/winners",
+      "https://thegameawards.com/rewind"
+    ],
+    "notes": "Official archives. No stable public year-filter endpoint; routed via official archive pages."
+  },
+  "aias_dice": {
+    "label": "AIAS \u00b7 D.I.C.E. Awards",
+    "type": "official_archive",
+    "templates": [
+      "https://www.interactive.org/awards/"
+    ],
+    "notes": "Official archive. No stable public year-filter endpoint exposed; routed via official archive."
+  }
+}

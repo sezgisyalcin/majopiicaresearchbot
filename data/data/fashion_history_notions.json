@@ -1,0 +1,62 @@
+{
+  "modernity": {
+    "label": "Modernity and Dress (19th–20th c.)",
+    "short": "How industrial modernity reshaped clothing, production, and social meaning.",
+    "extended": "Covers the relationship between industrialization, urban life, and the social semiotics of dress in modern societies.",
+    "research": "Route via museum research portals (V&A, Met) and university design history programs; prioritize peer-reviewed work on modernity and material culture."
+  },
+  "industrialization": {
+    "label": "Industrialization, Mass Production, and Fashion",
+    "short": "Mechanization and new supply chains expanded access and accelerated trend cycles.",
+    "extended": "Discusses garment factories, standardized sizing, retail infrastructures, and the transformation of fashion into an industrial-cultural system.",
+    "research": "Consult institutional archives and economic/social history scholarship on the apparel industry and consumption."
+  },
+  "dress_reform": {
+    "label": "Dress Reform and Social Change (late 19th–early 20th c.)",
+    "short": "Movements critiquing restrictive dress and advocating functional clothing.",
+    "extended": "Analyzes reform discourse around health, mobility, gender norms, and moral politics of dress.",
+    "research": "Use museum collections/research essays and academic gender & social history publications."
+  },
+  "haute_couture_system": {
+    "label": "The Haute Couture System and Fashion Institutions",
+    "short": "Institutionalization of couture, branding, and seasonal presentation systems.",
+    "extended": "Frames couture as an institutional field involving designers, houses, press, clients, and regulatory bodies shaping legitimacy.",
+    "research": "Route via university archives, museum fashion departments, and scholarly histories of couture institutions."
+  },
+  "consumption_distinction": {
+    "label": "Consumption, Distinction, and Taste",
+    "short": "How fashion indexes class and status through taste and cultural capital.",
+    "extended": "Builds on sociological theory of distinction; considers how style operates as a social boundary mechanism.",
+    "research": "Use institutional sociology and cultural studies literature via university libraries."
+  },
+  "subculture_style": {
+    "label": "Subculture, Style, and Signification (mid–late 20th c.)",
+    "short": "Style as symbolic practice within youth cultures and subcultural formations.",
+    "extended": "Covers how subcultural dress performs identity, opposition, and belonging within broader media systems.",
+    "research": "Route via academic cultural studies and media studies resources indexed by university libraries."
+  },
+  "postmodern_fashion": {
+    "label": "Postmodern Fashion (late 20th c.)",
+    "short": "Pluralism, pastiche, and quotation reshaping fashion meaning-making.",
+    "extended": "Engages with fragmentation of authority, remix aesthetics, and semiotic play in fashion representation.",
+    "research": "Use peer-reviewed cultural theory and museum exhibitions catalogues where available through institutional portals."
+  },
+  "gender_performativity": {
+    "label": "Gender, Performativity, and Dress (20th c.)",
+    "short": "Dress as a medium through which gender is enacted and negotiated.",
+    "extended": "Frames clothing as a site of social regulation and performance; contextualized within 20th-century gender studies.",
+    "research": "Route via university gender studies programs and museum research materials; prioritize peer-reviewed scholarship."
+  },
+  "global_fashion_system": {
+    "label": "Global Fashion Systems (late 20th c.)",
+    "short": "Globalization of production, branding, and cultural circulation of style.",
+    "extended": "Covers transnational supply chains, media, and the global diffusion of fashion imaginaries.",
+    "research": "Use institutional economic history, anthropology, and global studies sources via academic libraries."
+  },
+  "material_culture": {
+    "label": "Material Culture and Textiles",
+    "short": "Textiles and garments as material evidence for social history.",
+    "extended": "Emphasizes methods of object-based research, provenance, and conservation as knowledge practices.",
+    "research": "Route via museum conservation/research departments and university material culture programs."
+  }
+}

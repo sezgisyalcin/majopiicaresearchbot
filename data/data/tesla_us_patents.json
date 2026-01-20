@@ -1,0 +1,906 @@
+{
+  "source": {
+    "institution": "Nikola Tesla Museum (Belgrade)",
+    "document_title": "List of Nikola Tesla's Patents Granted in the USA",
+    "document_url": "https://tesla-museum.org/wp-content/uploads/2023/05/lista_patenata_eng.pdf",
+    "notes": "Dataset contains US patent numbers and titles as curated by the Nikola Tesla Museum. Patent drawings are accessed via official patent PDF endpoints when available."
+  },
+  "items": [
+    {
+      "idx": 1,
+      "title": "Electric-Arc Lamp",
+      "filing_date": "30.03.1885",
+      "application_number": "160574",
+      "grant_date": "09.02.1886",
+      "patent_number": "335786"
+    },
+    {
+      "idx": 2,
+      "title": "Commutator for Dynamo-Electric Machines",
+      "filing_date": "06.05.1885",
+      "application_number": "164534",
+      "grant_date": "26.01.1886",
+      "patent_number": "334823"
+    },
+    {
+      "idx": 3,
+      "title": "Regulator for Dynamo-Electric Machines",
+      "filing_date": "18.05.1885",
+      "application_number": "165793",
+      "grant_date": "02.03.1886",
+      "patent_number": "336961"
+    },
+    {
+      "idx": 4,
+      "title": "Regulator for Dynamo-Electric Machines",
+      "filing_date": "01.06.1885",
+      "application_number": "167136",
+      "grant_date": "02.03.1886",
+      "patent_number": "336962"
+    },
+    {
+      "idx": 5,
+      "title": "Electric-Arc Lamp",
+      "filing_date": "13.07.1885",
+      "application_number": "171416",
+      "grant_date": "09.02.1886",
+      "patent_number": "335787"
+    },
+    {
+      "idx": 6,
+      "title": "Dynamo-Electric Machine",
+      "filing_date": "14.01.1886",
+      "application_number": "188538",
+      "grant_date": "22.03.1887",
+      "patent_number": "359748"
+    },
+    {
+      "idx": 7,
+      "title": "Regulator for Dynamo-Electric Machines",
+      "filing_date": "14.01.1886",
+      "application_number": "188539",
+      "grant_date": "19.10.1886",
+      "patent_number": "350954"
+    },
+    {
+      "idx": 8,
+      "title": "Thermo-Magnetic Motor",
+      "filing_date": "30.03.1886",
+      "application_number": "197115",
+      "grant_date": "15.01.1889",
+      "patent_number": "396121"
+    },
+    {
+      "idx": 9,
+      "title": "Commutator for Dynamo-Electric Machines",
+      "filing_date": "30.04.1887",
+      "application_number": "236711",
+      "grant_date": "15.05.1888",
+      "patent_number": "382845"
+    },
+    {
+      "idx": 10,
+      "title": "Pyromagneto-Electric Generator",
+      "filing_date": "26.05.1887",
+      "application_number": "239481",
+      "grant_date": "13.05.1890",
+      "patent_number": "428057"
+    },
+    {
+      "idx": 11,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "12.10.1887",
+      "application_number": "252132",
+      "grant_date": "01.05.1888",
+      "patent_number": "381968"
+    },
+    {
+      "idx": 12,
+      "title": "Electrical Transmission of Power",
+      "filing_date": "12.10.1887",
+      "application_number": "252132",
+      "grant_date": "01.05.1888",
+      "patent_number": "382280"
+    },
+    {
+      "idx": 13,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "30.11.1887",
+      "application_number": "256561",
+      "grant_date": "01.05.1888",
+      "patent_number": "382279"
+    },
+    {
+      "idx": 14,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "30.11.1887",
+      "application_number": "256562",
+      "grant_date": "01.05.1888",
+      "patent_number": "381969"
+    },
+    {
+      "idx": 15,
+      "title": "Electrical Transmission of Power",
+      "filing_date": "30.11.1887",
+      "application_number": "256562",
+      "grant_date": "01.05.1888",
+      "patent_number": "382281"
+    },
+    {
+      "idx": 16,
+      "title": "System of Electrical Distribution",
+      "filing_date": "23.12.1887",
+      "application_number": "258787",
+      "grant_date": "01.05.1888",
+      "patent_number": "381970"
+    },
+    {
+      "idx": 17,
+      "title": "Method of Converting and Distributing Electric",
+      "filing_date": "23.12.1887",
+      "application_number": "258787",
+      "grant_date": "01.05.1888",
+      "patent_number": "382282"
+    },
+    {
+      "idx": 18,
+      "title": "System of Electrical Distribution",
+      "filing_date": "10.04.1888",
+      "application_number": "270187",
+      "grant_date": "02.10.1888",
+      "patent_number": "390413"
+    },
+    {
+      "idx": 19,
+      "title": "Dynamo-Electric Machine",
+      "filing_date": "23.04.1888",
+      "application_number": "271626",
+      "grant_date": "02.10.1888",
+      "patent_number": "390414"
+    },
+    {
+      "idx": 20,
+      "title": "Regulator for Alternate-Current Motors",
+      "filing_date": "24.04.1888",
+      "application_number": "271682",
+      "grant_date": "09.10.1888",
+      "patent_number": "390820"
+    },
+    {
+      "idx": 21,
+      "title": "Dynamo-Electric Machine",
+      "filing_date": "28.04.1888",
+      "application_number": "272153",
+      "grant_date": "09.10.1888",
+      "patent_number": "390721"
+    },
+    {
+      "idx": 22,
+      "title": "System of Electrical Transmission of Power",
+      "filing_date": "15.05.1888",
+      "application_number": "273992",
+      "grant_date": "13.12.1892",
+      "patent_number": "487796"
+    },
+    {
+      "idx": 23,
+      "title": "Alternating Motor",
+      "filing_date": "15.05.1888",
+      "application_number": "273993",
+      "grant_date": "25.02.1896",
+      "patent_number": "555190"
+    },
+    {
+      "idx": 24,
+      "title": "Electrical Transmission of Power",
+      "filing_date": "15.05.1888",
+      "application_number": "273993",
+      "grant_date": "02.01.1894",
+      "patent_number": "511915"
+    },
+    {
+      "idx": 25,
+      "title": "Dynamo-Electric Machine or Motor",
+      "filing_date": "15.05.1888",
+      "application_number": "273994",
+      "grant_date": "02.10.1888",
+      "patent_number": "390415"
+    },
+    {
+      "idx": 26,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.10.1888",
+      "application_number": "288677",
+      "grant_date": "14.08.1894",
+      "patent_number": "524426"
+    },
+    {
+      "idx": 27,
+      "title": "Electrical Transmission of Power",
+      "filing_date": "08.12.1888",
+      "application_number": "293051",
+      "grant_date": "26.12.1893",
+      "patent_number": "511559"
+    },
+    {
+      "idx": 28,
+      "title": "System of Electrical Power Transmission",
+      "filing_date": "08.12.1888",
+      "application_number": "293052",
+      "grant_date": "26.12.1893",
+      "patent_number": "511560"
+    },
+    {
+      "idx": 29,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "08.01.1889",
+      "application_number": "295745",
+      "grant_date": "25.06.1889",
+      "patent_number": "405858"
+    },
+    {
+      "idx": 30,
+      "title": "Method of Operating Electro-Magnetic Motors",
+      "filing_date": "18.02.1889",
+      "application_number": "300220",
+      "grant_date": "16.04.1889",
+      "patent_number": "401520"
+    },
+    {
+      "idx": 31,
+      "title": "Method of Electrical Power Transmission",
+      "filing_date": "14.03.1889",
+      "application_number": "303251",
+      "grant_date": "25.06.1889",
+      "patent_number": "405859"
+    },
+    {
+      "idx": 32,
+      "title": "Dynamo-Electric Machine",
+      "filing_date": "23.03.1889",
+      "application_number": "304498",
+      "grant_date": "16.07.1889",
+      "patent_number": "406968"
+    },
+    {
+      "idx": 33,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "06.04.1889",
+      "application_number": "306165",
+      "grant_date": "22.09.1891",
+      "patent_number": "459772"
+    },
+    {
+      "idx": 34,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311413",
+      "grant_date": "03.12.1889",
+      "patent_number": "416191"
+    },
+    {
+      "idx": 35,
+      "title": "Method of Operating Electro-Magnetic Motors",
+      "filing_date": "20.05.1889",
+      "application_number": "311414",
+      "grant_date": "03.12.1889",
+      "patent_number": "416192"
+    },
+    {
+      "idx": 36,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311415",
+      "grant_date": "03.12.1889",
+      "patent_number": "416193"
+    },
+    {
+      "idx": 37,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311416",
+      "grant_date": "25.03.1890",
+      "patent_number": "424036"
+    },
+    {
+      "idx": 38,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311417",
+      "grant_date": "27.01.1891",
+      "patent_number": "445207"
+    },
+    {
+      "idx": 39,
+      "title": "Electric Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311418",
+      "grant_date": "03.12.1889",
+      "patent_number": "416194"
+    },
+    {
+      "idx": 40,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311419",
+      "grant_date": "03.12.1889",
+      "patent_number": "416195"
+    },
+    {
+      "idx": 41,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "20.05.1889",
+      "application_number": "311420",
+      "grant_date": "31.12.1889",
+      "patent_number": "418248"
+    },
+    {
+      "idx": 42,
+      "title": "Method of Obtaining Direct from Alternating",
+      "filing_date": "12.06.1889",
+      "application_number": "314069",
+      "grant_date": "22.10.1889",
+      "patent_number": "413353"
+    },
+    {
+      "idx": 43,
+      "title": "Armature for Electric Machines",
+      "filing_date": "28.06.1889",
+      "application_number": "315937",
+      "grant_date": "24.12.1889",
+      "patent_number": "417794"
+    },
+    {
+      "idx": 44,
+      "title": "Alternating-Current Electro-Magnetic Motor",
+      "filing_date": "26.03.1890",
+      "application_number": "345388",
+      "grant_date": "05.08.1890",
+      "patent_number": "433700"
+    },
+    {
+      "idx": 45,
+      "title": "Alternating-Current Motor",
+      "filing_date": "26.03.1890",
+      "application_number": "345389",
+      "grant_date": "05.08.1890",
+      "patent_number": "433701"
+    },
+    {
+      "idx": 46,
+      "title": "Electrical Transformer or Induction Device",
+      "filing_date": "26.03.1890",
+      "application_number": "345390",
+      "grant_date": "05.08.1890",
+      "patent_number": "433702"
+    },
+    {
+      "idx": 47,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "04.04.1890",
+      "application_number": "346603",
+      "grant_date": "05.08.1890",
+      "patent_number": "433703"
+    },
+    {
+      "idx": 48,
+      "title": "Method of Operating Arc Lamps",
+      "filing_date": "01.10.1890",
+      "application_number": "366734",
+      "grant_date": "10.03.1891",
+      "patent_number": "447920"
+    },
+    {
+      "idx": 49,
+      "title": "Alternating-Electric-Current Generator",
+      "filing_date": "15.11.1890",
+      "application_number": "371554",
+      "grant_date": "10.03.1891",
+      "patent_number": "447921"
+    },
+    {
+      "idx": 50,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "27.01.1891",
+      "application_number": "379251",
+      "grant_date": "30.06.1891",
+      "patent_number": "455067"
+    },
+    {
+      "idx": 51,
+      "title": "Method of and Apparatus for Electrical",
+      "filing_date": "04.02.1891",
+      "application_number": "380182",
+      "grant_date": "03.11.1891",
+      "patent_number": "462418"
+    },
+    {
+      "idx": 52,
+      "title": "Electrical Meter",
+      "filing_date": "27.03.1891",
+      "application_number": "386666",
+      "grant_date": "30.06.1891",
+      "patent_number": "455068"
+    },
+    {
+      "idx": 53,
+      "title": "System of Electric Lightning",
+      "filing_date": "26.04.1891",
+      "application_number": "390414",
+      "grant_date": "23.06.1891",
+      "patent_number": "454622"
+    },
+    {
+      "idx": 54,
+      "title": "Electric Incandescent Lamp",
+      "filing_date": "14.05.1891",
+      "application_number": "392669",
+      "grant_date": "30.06.1891",
+      "patent_number": "455069"
+    },
+    {
+      "idx": 55,
+      "title": "Electro-Magnetic Motor",
+      "filing_date": "13.07.1891",
+      "application_number": "399312",
+      "grant_date": "08.12.1891",
+      "patent_number": "464666"
+    },
+    {
+      "idx": 56,
+      "title": "Electrical Condenser",
+      "filing_date": "01.08.1891",
+      "application_number": "401356",
+      "grant_date": "08.12.1891",
+      "patent_number": "464667"
+    },
+    {
+      "idx": 57,
+      "title": "Incandescent Electric Light",
+      "filing_date": "02.01.1892",
+      "application_number": "416772",
+      "grant_date": "06.02.1894",
+      "patent_number": "514170"
+    },
+    {
+      "idx": 58,
+      "title": "Electrical Conductor",
+      "filing_date": "02.01.1892",
+      "application_number": "416773",
+      "grant_date": "06.02.1894",
+      "patent_number": "514167"
+    },
+    {
+      "idx": 59,
+      "title": "Electric Railway Systems",
+      "filing_date": "02.01.1892",
+      "application_number": "416774",
+      "grant_date": "20.02.1894",
+      "patent_number": "514972"
+    },
+    {
+      "idx": 60,
+      "title": "Coil for Electro-Magnets",
+      "filing_date": "07.07.1893",
+      "application_number": "479804",
+      "grant_date": "09.01.1894",
+      "patent_number": "512340"
+    },
+    {
+      "idx": 61,
+      "title": "Means for Generating Electric Currents",
+      "filing_date": "02.08.1893",
+      "application_number": "482194",
+      "grant_date": "06.02.1894",
+      "patent_number": "514168"
+    },
+    {
+      "idx": 62,
+      "title": "Electric Generator",
+      "filing_date": "19.08.1893",
+      "application_number": "483562",
+      "grant_date": "02.01.1894",
+      "patent_number": "511916"
+    },
+    {
+      "idx": 63,
+      "title": "Reciprocating Engine",
+      "filing_date": "19.08.1893",
+      "application_number": "483563",
+      "grant_date": "06.02.1894",
+      "patent_number": "514169"
+    },
+    {
+      "idx": 64,
+      "title": "Electrical Meter",
+      "filing_date": "15.12.1893",
+      "application_number": "493739",
+      "grant_date": "20.02.1894",
+      "patent_number": "514973"
+    },
+    {
+      "idx": 65,
+      "title": "Steam Engine",
+      "filing_date": "29.12.1893",
+      "application_number": "495079",
+      "grant_date": "10.04.1894",
+      "patent_number": "517900"
+    },
+    {
+      "idx": 66,
+      "title": "Apparatus for Producing Electric Currents of",
+      "filing_date": "22.04.1896",
+      "application_number": "588534",
+      "grant_date": "22.09.1896",
+      "patent_number": "568176"
+    },
+    {
+      "idx": 67,
+      "title": "Apparatus for Producing Ozone",
+      "filing_date": "17.06.1896",
+      "application_number": "595927",
+      "grant_date": "22.09.1896",
+      "patent_number": "568177"
+    },
+    {
+      "idx": 68,
+      "title": "Electrical Condenser",
+      "filing_date": "17.06.1896",
+      "application_number": "595928",
+      "grant_date": "15.09.1896",
+      "patent_number": "567818"
+    },
+    {
+      "idx": 69,
+      "title": "Method of Regulating Apparatus for",
+      "filing_date": "20.06.1896",
+      "application_number": "596262",
+      "grant_date": "22.09.1896",
+      "patent_number": "568178"
+    },
+    {
+      "idx": 70,
+      "title": "Method of and Apparatus for Producing",
+      "filing_date": "06.07.1896",
+      "application_number": "598130",
+      "grant_date": "22.09.1896",
+      "patent_number": "568179"
+    },
+    {
+      "idx": 71,
+      "title": "Apparatus for Producing Electrical Currents of",
+      "filing_date": "09.07.1896",
+      "application_number": "598552",
+      "grant_date": "22.09.1896",
+      "patent_number": "568180"
+    },
+    {
+      "idx": 72,
+      "title": "Apparatus for Producing Electric Currents of",
+      "filing_date": "03.09.1896",
+      "application_number": "604723",
+      "grant_date": "23.02.1897",
+      "patent_number": "577670"
+    },
+    {
+      "idx": 73,
+      "title": "Apparatus for Producing Currents of High",
+      "filing_date": "19.10.1896",
+      "application_number": "609292",
+      "grant_date": "08.06.1897",
+      "patent_number": "583953"
+    },
+    {
+      "idx": 74,
+      "title": "Manufacture of Electrical Condensers, Coils",
+      "filing_date": "05.11.1896",
+      "application_number": "611126",
+      "grant_date": "23.02.1897",
+      "patent_number": "577671"
+    },
+    {
+      "idx": 75,
+      "title": "Electrical Igniter for Gas-Engines",
+      "filing_date": "17.02.1897",
+      "application_number": "623832",
+      "grant_date": "16.08.1898",
+      "patent_number": "609250"
+    },
+    {
+      "idx": 76,
+      "title": "Electrical Transformer",
+      "filing_date": "20.03.1897",
+      "application_number": "628453",
+      "grant_date": "02.11.1897",
+      "patent_number": "593138"
+    },
+    {
+      "idx": 77,
+      "title": "Electric-Circuit Controller",
+      "filing_date": "03.06.1897",
+      "application_number": "639227",
+      "grant_date": "16.08.1898",
+      "patent_number": "609251"
+    },
+    {
+      "idx": 78,
+      "title": "System of Transmission of Electrical Energy",
+      "filing_date": "02.09.1897",
+      "application_number": "650343",
+      "grant_date": "20.03.1900",
+      "patent_number": "645576"
+    },
+    {
+      "idx": 79,
+      "title": "Apparatus for Transmission of Electrical",
+      "filing_date": "02.09.1897",
+      "application_number": "650343",
+      "grant_date": "15.05.1900",
+      "patent_number": "649621"
+    },
+    {
+      "idx": 80,
+      "title": "Electrical-Circuit Controller",
+      "filing_date": "02.12.1897",
+      "application_number": "660518",
+      "grant_date": "16.08.1898",
+      "patent_number": "609245"
+    },
+    {
+      "idx": 81,
+      "title": "Electrical-Circuit Controller",
+      "filing_date": "10.12.1897",
+      "application_number": "661403",
+      "grant_date": "04.10.1898",
+      "patent_number": "611719"
+    },
+    {
+      "idx": 82,
+      "title": "Electrical-Circuit Controller",
+      "filing_date": "28.02.1898",
+      "application_number": "671897",
+      "grant_date": "16.08.1898",
+      "patent_number": "609246"
+    },
+    {
+      "idx": 83,
+      "title": "Electric-Circuit Controller",
+      "filing_date": "12.03.1898",
+      "application_number": "673558",
+      "grant_date": "16.08.1898",
+      "patent_number": "609247"
+    },
+    {
+      "idx": 84,
+      "title": "Electric-Circuit Controller",
+      "filing_date": "12.03.1898",
+      "application_number": "673559",
+      "grant_date": "16.08.1898",
+      "patent_number": "609248"
+    },
+    {
+      "idx": 85,
+      "title": "Electric-Circuit Controller",
+      "filing_date": "12.03.1898",
+      "application_number": "673560",
+      "grant_date": "16.08.1898",
+      "patent_number": "609249"
+    },
+    {
+      "idx": 86,
+      "title": "Electric-Circuit Controller",
+      "filing_date": "19.04.1898",
+      "application_number": "678127",
+      "grant_date": "08.11.1898",
+      "patent_number": "613735"
+    },
+    {
+      "idx": 87,
+      "title": "Method of and Apparatus for Controlling the",
+      "filing_date": "01.07.1898",
+      "application_number": "684934",
+      "grant_date": "08.11.1898",
+      "patent_number": "613809"
+    },
+    {
+      "idx": 88,
+      "title": "Method of Intensifying and Utilizing Effects",
+      "filing_date": "24.06.1899",
+      "application_number": "721790",
+      "grant_date": "05.11.1901",
+      "patent_number": "685953"
+    },
+    {
+      "idx": 89,
+      "title": "Apparatus for Utilizing Effects Transmitted",
+      "filing_date": "24.06.1899",
+      "application_number": "721790",
+      "grant_date": "05.11.1901",
+      "patent_number": "685955"
+    },
+    {
+      "idx": 90,
+      "title": "Method of Utilizing Effects Transmitted",
+      "filing_date": "01.08.1899",
+      "application_number": "725749",
+      "grant_date": "05.11.1901",
+      "patent_number": "685954"
+    },
+    {
+      "idx": 91,
+      "title": "Apparatus for Utilizing Effects Transmitted",
+      "filing_date": "01.08.1899",
+      "application_number": "725749",
+      "grant_date": "05.11.1901",
+      "patent_number": "685956"
+    },
+    {
+      "idx": 92,
+      "title": "Means for Increasing the Intensity of Electrical",
+      "filing_date": "21.03.1900",
+      "application_number": "9501",
+      "grant_date": "22.10.1901",
+      "patent_number": "685012"
+    },
+    {
+      "idx": 93,
+      "title": "Art of Transmitting Electrical Energy through",
+      "filing_date": "16.05.1900",
+      "application_number": "16889",
+      "grant_date": "18.04.1905",
+      "patent_number": "787412"
+    },
+    {
+      "idx": 94,
+      "title": "Methods of Insulating Electric Conductors",
+      "filing_date": "15.06.1900",
+      "application_number": "20405",
+      "grant_date": "14.08.1900",
+      "patent_number": "655838"
+    },
+    {
+      "idx": 95,
+      "title": "System of Signaling",
+      "filing_date": "16.07.1900",
+      "application_number": "23847",
+      "grant_date": "14.04.1903",
+      "patent_number": "725605"
+    },
+    {
+      "idx": 96,
+      "title": "Method of Signaling",
+      "filing_date": "16.07.1900",
+      "application_number": "23847",
+      "grant_date": "17.03.1903",
+      "patent_number": "723188"
+    },
+    {
+      "idx": 97,
+      "title": "Method of Insulating Electric Conductors",
+      "filing_date": "14.08.1900",
+      "application_number": "655838",
+      "grant_date": "23.10.1900",
+      "patent_number": "11865"
+    },
+    {
+      "idx": 98,
+      "title": "Apparatus for Utilization of Radiant Energy",
+      "filing_date": "21.03.1901",
+      "application_number": "52153",
+      "grant_date": "05.11.1901",
+      "patent_number": "685957"
+    },
+    {
+      "idx": 99,
+      "title": "Method of Utilizing Radiant Energy",
+      "filing_date": "21.03.1901",
+      "application_number": "52154",
+      "grant_date": "05.11.1901",
+      "patent_number": "685958"
+    },
+    {
+      "idx": 100,
+      "title": "Apparatus for Transmitting Electrical Energy",
+      "filing_date": "18.01.1902",
+      "application_number": "90245",
+      "grant_date": "01.12.1914",
+      "patent_number": "1119732"
+    },
+    {
+      "idx": 101,
+      "title": "Fluid Propulsion",
+      "filing_date": "21.10.1909",
+      "application_number": "523832",
+      "grant_date": "06.05.1913",
+      "patent_number": "1061142"
+    },
+    {
+      "idx": 102,
+      "title": "Turbine",
+      "filing_date": "21.10.1909",
+      "application_number": "523832",
+      "grant_date": "06.05.1913",
+      "patent_number": "1061206"
+    },
+    {
+      "idx": 103,
+      "title": "Fountain",
+      "filing_date": "28.10.1913",
+      "application_number": "797718",
+      "grant_date": "13.10.1914",
+      "patent_number": "1113716"
+    },
+    {
+      "idx": 104,
+      "title": "Speed-Indicator",
+      "filing_date": "29.05.1914",
+      "application_number": "841726",
+      "grant_date": "19.12.1916",
+      "patent_number": "1209359"
+    },
+    {
+      "idx": 105,
+      "title": "Valvular Conduit",
+      "filing_date": "21.02.1916",
+      "application_number": "79703",
+      "grant_date": "03.02.1920",
+      "patent_number": "1329559"
+    },
+    {
+      "idx": 106,
+      "title": "Lightning Protector",
+      "filing_date": "06.05.1916",
+      "application_number": "95830",
+      "grant_date": "14.05.1918",
+      "patent_number": "1266175"
+    },
+    {
+      "idx": 107,
+      "title": "Flow Meter",
+      "filing_date": "18.12.1916",
+      "application_number": "137688",
+      "grant_date": "11.01.1921",
+      "patent_number": "1365547"
+    },
+    {
+      "idx": 108,
+      "title": "Frequency Meter",
+      "filing_date": "18.12.1916",
+      "application_number": "137689",
+      "grant_date": "03.01.1922",
+      "patent_number": "1402025"
+    },
+    {
+      "idx": 109,
+      "title": "Ship's Log",
+      "filing_date": "18.12.1916",
+      "application_number": "137690",
+      "grant_date": "02.09.1919",
+      "patent_number": "1314718"
+    },
+    {
+      "idx": 110,
+      "title": "Speed-Indicator",
+      "filing_date": "18.12.1916",
+      "application_number": "137691",
+      "grant_date": "06.08.1918",
+      "patent_number": "1274816"
+    },
+    {
+      "idx": 111,
+      "title": "Method of Aerial Transportation",
+      "filing_date": "09.09.1921",
+      "application_number": "499519",
+      "grant_date": "03.01.1928",
+      "patent_number": "1655113"
+    },
+    {
+      "idx": 112,
+      "title": "Apparatus for Aerial Transportation",
+      "filing_date": "04.10.1927",
+      "application_number": "223915",
+      "grant_date": "03.01.1928",
+      "patent_number": "1655114"
+    }
+  ]
+}

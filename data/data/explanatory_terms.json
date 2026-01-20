@@ -1,0 +1,14 @@
+{
+  "motivation": "The official justification text published by the Nobel Committee for a prize or laureate.",
+  "academic-only": "Content limited to universities, museums, and official academic institutions.",
+  "institutional-source": "A source maintained and curated by a university, museum, or formal institution.",
+  "research-mode": "A response format that directs users toward academic research pathways.",
+  "case-routing": "A structured navigation path through institutional archives or collections.",
+  "concept-index": "A controlled list of theoretical terms used to organize academic content.",
+  "audit": "A validation process ensuring all sources meet institutional standards.",
+  "official-endpoint": "A data interface (API, JSON, RSS) provided directly by an institution.",
+  "random": "Selection from a pre-curated and academically verified dataset.",
+  "theoretical-only": "Content focused on concepts and frameworks rather than practical guidance.",
+  "historical-theory": "Scholarly interpretation of historical periods, not descriptive history.",
+  "self-documentation": "The bot’s internal explanation of its own terminology and methods."
+}

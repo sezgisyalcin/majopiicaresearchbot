@@ -1,0 +1,184 @@
+{
+  "dataset": "animation_vocabulary_glossary",
+  "version": "1.0.0",
+  "language": "en",
+  "policy": {
+    "tone": "academic-neutral",
+    "scope": "Minimal academic vocabulary for animation (hand-drawn; anime + cartoons).",
+    "restrictions": [
+      "No tutorial imperatives",
+      "No software-specific terminology",
+      "Definitions should be discipline-standard and concise"
+    ]
+  },
+  "terms": [
+    {
+      "term": "inbetweening",
+      "definition": "Production practice of drawing intermediate frames between key poses to shape motion continuity.",
+      "tags": [
+        "timing",
+        "motion"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "key pose",
+      "definition": "A structurally and narratively salient drawing that anchors an action’s meaning and rhythm.",
+      "tags": [
+        "character",
+        "motion"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "breakdown drawing",
+      "definition": "An intermediate drawing that specifies path, overlap, and mechanics between key poses.",
+      "tags": [
+        "motion",
+        "analysis"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "staging",
+      "definition": "Compositional organization that directs attention and clarifies narrative intent within a shot.",
+      "tags": [
+        "layout",
+        "story"
+      ],
+      "sources": [
+        {
+          "label": "The Met — Heilbrunn Timeline",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "term": "silhouette clarity",
+      "definition": "Readability of forms when reduced to outline; used as a test for pose and composition legibility.",
+      "tags": [
+        "analysis",
+        "layout"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "registration",
+      "definition": "Alignment of drawings/layers across frames to prevent drift and unintended jitter.",
+      "tags": [
+        "registration",
+        "production"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "exposure sheet",
+      "definition": "Timing structure used to coordinate drawings, holds, dialogue, and layered events in production.",
+      "tags": [
+        "timing",
+        "production"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "limited animation",
+      "definition": "Strategy emphasizing key poses and selective motion rather than continuous full-frame movement.",
+      "tags": [
+        "production",
+        "analysis"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "smear frame",
+      "definition": "Deliberate distortion within a single drawing to communicate rapid motion between positions.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "follow-through",
+      "definition": "Continuation of motion in secondary parts after the main action ends, conveying inertia and material behavior.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "overlap",
+      "definition": "Staggering the timing of connected parts so motion does not start/stop simultaneously, improving realism and rhythm.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "sources": [
+        {
+          "label": "BFI — Learning & resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "term": "value grouping",
+      "definition": "Organization of light/dark masses to guide attention and support readability.",
+      "tags": [
+        "lighting",
+        "analysis"
+      ],
+      "sources": [
+        {
+          "label": "The Met — Heilbrunn Timeline",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    }
+  ]
+}

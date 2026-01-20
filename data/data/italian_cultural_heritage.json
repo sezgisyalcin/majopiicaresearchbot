@@ -1,0 +1,29 @@
+{
+  "policy": "UNESCO-only Italian cultural heritage sites. One item returned per request.",
+  "items": [
+    {
+      "name": "Colosseum",
+      "location": "Rome",
+      "one_liner": "An ancient Roman amphitheatre used for public spectacles during the Roman Empire.",
+      "image_url": "https://whc.unesco.org/uploads/thumbs/site_0091_0001-1200-630-20200916100058.jpg",
+      "source": "UNESCO World Heritage Centre",
+      "unesco": true
+    },
+    {
+      "name": "Historic Centre of Florence",
+      "location": "Florence",
+      "one_liner": "A Renaissance urban ensemble that played a central role in European art and architecture.",
+      "image_url": "https://whc.unesco.org/uploads/thumbs/site_0174_0001-1200-630-20201015112127.jpg",
+      "source": "UNESCO World Heritage Centre",
+      "unesco": true
+    },
+    {
+      "name": "Venice and its Lagoon",
+      "location": "Venice",
+      "one_liner": "A unique maritime city built on a lagoon, reflecting centuries of cultural exchange.",
+      "image_url": "https://whc.unesco.org/uploads/thumbs/site_0394_0001-1200-630-20201015122521.jpg",
+      "source": "UNESCO World Heritage Centre",
+      "unesco": true
+    }
+  ]
+}

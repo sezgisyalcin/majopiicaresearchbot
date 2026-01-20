@@ -1,0 +1,47 @@
+{
+  "policy": "High-level periodization of Roman political history for educational overview.",
+  "items": [
+    {
+      "key": "kingdom",
+      "title": "Roman Kingdom",
+      "from": "c. 753 BCE",
+      "to": "509 BCE",
+      "one_liner": "Traditional founding through the overthrow of the last king and transition to a republican system."
+    },
+    {
+      "key": "republic",
+      "title": "Roman Republic",
+      "from": "509 BCE",
+      "to": "27 BCE",
+      "one_liner": "A republican polity that expanded across the Mediterranean before internal conflicts led to the rise of one-man rule."
+    },
+    {
+      "key": "principate",
+      "title": "Roman Empire (Principate)",
+      "from": "27 BCE",
+      "to": "284 CE",
+      "one_liner": "Early imperial period beginning with Augustus, marked by relative administrative stability and territorial consolidation."
+    },
+    {
+      "key": "dominate",
+      "title": "Roman Empire (Dominate)",
+      "from": "284 CE",
+      "to": "476 CE (West) / 1453 CE (East)",
+      "one_liner": "Late imperial transformations including Diocletian’s reforms; the Western Empire ended in 476 while the Eastern Empire continued."
+    }
+  ],
+  "sources": [
+    {
+      "label": "Encyclopaedia Britannica (Roman Republic / Roman Empire overviews)",
+      "url": "https://www.britannica.com/"
+    },
+    {
+      "label": "The Metropolitan Museum of Art Heilbrunn Timeline of Art History (Ancient Rome)",
+      "url": "https://www.metmuseum.org/toah/"
+    },
+    {
+      "label": "Stanford Encyclopedia of Philosophy (Roman political thought context)",
+      "url": "https://plato.stanford.edu/"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "italy": {
+    "label": "Servizio Meteorologico Aeronautica Militare",
+    "url": "https://www.meteoam.it/",
+    "kind": "official_platform"
+  },
+  "united kingdom": {
+    "label": "Met Office",
+    "url": "https://www.metoffice.gov.uk/",
+    "kind": "official_platform"
+  },
+  "united states": {
+    "label": "NOAA National Weather Service",
+    "url": "https://www.weather.gov/",
+    "kind": "official_platform"
+  },
+  "germany": {
+    "label": "Deutscher Wetterdienst (DWD)",
+    "url": "https://www.dwd.de/",
+    "kind": "official_platform"
+  },
+  "turkey": {
+    "label": "Turkish State Meteorological Service (MGM)",
+    "url": "https://www.mgm.gov.tr/",
+    "kind": "official_platform"
+  },
+  "japan": {
+    "label": "Japan Meteorological Agency (JMA)",
+    "url": "https://www.jma.go.jp/jma/indexe.html",
+    "kind": "official_platform"
+  }
+}

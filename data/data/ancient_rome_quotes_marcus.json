@@ -1,0 +1,724 @@
+{
+  "items": [
+    {
+      "id": "marcus_aurelius_0001",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "That which does not make a man worse than he was, also does not make his life worse, nor does it harm him either from without or from within",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0002",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "But are the acts which concern society more vile in thy eyes and less worthy of thy labour",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0003",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "Divide and distribute every object into the causal (formal) and the material",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0004",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "That all things have been and all things always will be bad, and that no power has ever been found in so many gods to rectify these things, but the world has been condemned to be found in never ceasing evil",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0005",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Consider that men will do the same things nevertheless, even though thou shouldst burst",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0006",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "In like manner, then, neither are the termination and cessation and change of thy whole life a thing to be afraid of",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0007",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Remember this then, that this little compound, thyself, must either be dissolved, or thy poor breath must be extinguished, or be removed and placed elsewhere",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0008",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "It is true that he was harsh to none of us, but I perceived that he tacitly condemns us.- This is what is said of a good man",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0009",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Imagine every man who is grieved at anything or discontented to be like a pig which is sacrificed and kicks and screams",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0010",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "For it makes no difference whether a man lives there or here, if he lives everywhere in the world as in a state (political community",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0011",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "The breeze which heaven has sent We must endure, and toil without complaining",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0012",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "For then thou wilt use them well, and they will be a material for thee to work on",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0013",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "Look round at the courses of the stars, as if thou wert going along with them; and constantly consider the changes of the elements into one another; for such thoughts purge away the filth of the terrene life",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0014",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ELEVEN",
+      "quote": "He who has not one and always the same object in life, cannot be one and the same all through his life",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0015",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "That which rules within, when it is according to nature, is so affected with respect to the events which happen, that it always easily adapts itself to that which is and is presented to it",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0016",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "And consider if magnanimity, freedom, simplicity, equanimity, piety, are not more agreeable",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0017",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "I affirm this also of the things which are called beautiful by the vulgar, for example, material things and works of art",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0018",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "As to the animals which have no reason and generally all things and objects, do thou, since thou hast reason and they have none, make use of them with a generous and liberal spirit",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0019",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "Does the sun undertake to do the work of the rain, or Aesculapius the work of the Fruit-bearer (the earth",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0020",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "Soon, very soon, thou wilt be ashes, or a skeleton, and either a name or not even a name; but name is sound and echo",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0021",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "And this is the answer which a man might give on the hypothesis of souls continuing to exist",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0022",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "A prayer of the Athenians: Rain, rain, O dear Zeus, down on the ploughed fields of the Athenians and on the plains.- In truth we ought not to pray at all, or we ought to pray in this simple and noble fashion",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0023",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "Now that which does not make a man worse, how can it make a man's life worse",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0024",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "It is useful to perceive this, too, immediately when the occasion arises, what virtue nature has given to man to oppose to every wrongful act",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0025",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "He who follows reason in all things is both tranquil and active at the same time, and also cheerful and collected",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0026",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "But if any other things oppose thee, go on according to thy powers with due consideration, keeping to that which appears to be just",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0027",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "But further thou wilt observe this also as a general truth, if thou dost observe, that whatever is profitable to any man is profitable also to other men",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0028",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "Let the same considerations be present to thy mind in the case of the knave, and the faithless man, and of every man who does wrong in any way",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0029",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ONE",
+      "quote": "We know how he behaved to the toll-collector at Tusculum who asked his pardon; and such was all his behaviour",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0030",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Whatever may happen to thee, it was prepared for thee from all eternity; and the implication of causes was from eternity spinning the thread of thy being, and of that which is incident to it",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0031",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Does a man please himself who repents of nearly everything that he does",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0032",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "For they are certainly moved towards things because they suppose them to be suitable to their nature and profitable to them.- But it is not so.- Teach them then, and show them without being angry",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0033",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "If thou hadst a step-mother and a mother at the same time, thou wouldst be dutiful to thy step-mother, but still thou wouldst constantly return to thy mother",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0034",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "Let these principles be enough for thee, let them always be fixed opinions",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0035",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "Consider whether thou shouldst not rather blame thyself, because thou didst not expect such a man to err in such a way",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0036",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ELEVEN",
+      "quote": "The unripe grape, the ripe bunch, the dried grape, all are changes, not into nothing, but into something which exists not yet",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0037",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Nor yet desiring time wherein thou shalt have longer enjoyment, or place, or pleasant climate, or society of men with whom thou mayest live in harmony",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0038",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "Fourthly, when it plays a part, and does or says anything insincerely and untruly",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0039",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "It is a shame then that ignorance and conceit should be stronger than wisdom",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0040",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "But suppose that this which thy mother brought forth implicates thee very much with that other part, which has the peculiar quality of change, this is nothing in fact in the way of objection to what is said",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0041",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "And consider this which is near to thee, this boundless abyss of the past and of the future in which all things disappear",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0042",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "For substance is like a river in a continual flow, and the activities of things are in constant change, and the causes work in infinite varieties; and there is hardly anything which stands still",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0043",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWELVE",
+      "quote": "See what things are in themselves, dividing them into matter, form and purpose",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0044",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Suppose that it has been reported to thee that a certain person speaks ill of thee",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0045",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Or rather add something, like a man who knows everything that happens in the world",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0046",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "Dost thou not see then that for thyself also to change is just the same, and equally necessary for the universal nature",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0047",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "And consider that as the heaps of sand piled on one another hide the former sands, so in life the events which go before are soon covered by those which come after",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0048",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "I receive it and refer it to the gods, and the source of all things, from which all that happens is derived",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0049",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "Whatever this is that I am, it is a little flesh and breath, and the ruling part",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0050",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "See that thou secure this present time to thyself: for those who rather pursue posthumous fame do consider that the men of after time will be exactly such as these whom they cannot bear now; and both are mortal",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0051",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "Since it is possible that thou mayest depart from life this very moment, regulate every act and thought accordingly",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0052",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "Consider thyself to be dead, and to have completed thy life up to the present time; and live according to nature the remainder which is allowed thee",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0053",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "No longer talk at all about the kind of man that a good man ought to be, but be such",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0054",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "And thus also in the universe the things which belong to it are in conformity to intelligence",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0055",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "Generally, wickedness does no harm at all to the universe; and particularly, the wickedness of one man does no harm to another",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0056",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "But he who has failed in any one of these things could not even say for what purpose he exists himself",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0057",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "But thine is nearly finished, though thy soul reverences not itself but places thy felicity in the souls of others",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0058",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "Do not despise death, but be well content with it, since this too is one of those things which nature wills",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0059",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "About death: Whether it is a dispersion, or a resolution into atoms, or annihilation, it is either extinction or change",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0060",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "Dye it then with a continuous series of such thoughts as these: for instance, that where a man can live, there he can also live well",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0061",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Mimi, war, astonishment, torpor, slavery, will daily wipe out those holy principles of thine",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0062",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "It is no evil for things to undergo change, and no good for things to subsist in consequence of change",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0063",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "But a short time ago to how many they were slaves and for what things; and after a little time consider in what a condition they will be",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0064",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "What then can these things do to prevent thy mind from remaining pure, wise, sober, just",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0065",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "But now either everything that takes place comes by way of consequence or continuity; or even the chief things towards which the ruling power of the universe directs its own movement are governed by no rational principle",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0066",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "Neither must we value the clapping of tongues, for the praise which comes from the many is a clapping of tongues",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0067",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "But towards human beings, as they have reason, behave in a social spirit",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0068",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWELVE",
+      "quote": "If then a god or a wise teacher should present himself to a man and bid him to think of nothing and to design nothing which he would not express as soon as he conceived it, he could not endure it even for a single day",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0069",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "Art thou not content that thou hast done something conformable to thy nature, and dost thou seek to be paid for it",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0070",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "The things then which are useful to these cities are alone useful to me",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0071",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "Everything which happens is as familiar and well known as the rose in spring and the fruit in summer; for such is disease, and death, and calumny, and treachery, and whatever else delights fools or vexes them",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0072",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "But the rational animal is consequently also a political (social) animal",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0073",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "So thou lovest not thyself, for if thou didst, thou wouldst love thy nature and her will",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0074",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "If, then, it happens to thee in such way as thou art formed by nature to bear it, do not complain, but bear it as thou art formed by nature to bear it",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0075",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "Some things are hurrying into existence, and others are hurrying out of it; and of that which is coming into existence part is already extinguished",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0076",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "The rational principle which rules has this nature, that it is content with itself when it does what is just, and so secures tranquility",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0077",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SIX",
+      "quote": "These it is thy duty to observe and without being disturbed or showing anger towards those who are angry with thee to go on thy way and finish that which is set before thee",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0078",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FOUR",
+      "quote": "And from thence, from this common political community comes also our very intellectual faculty and reasoning faculty and our capacity for law; or whence do they come",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0079",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book FIVE",
+      "quote": "I now have what the universal nature wills me to have; and I do what my nature now wills me to do",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0080",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "The body ought to be compact, and to show no irregularity either in motion or attitude",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0081",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ONE",
+      "quote": "His dress came from Lorium, his villa on the coast, and from Lanuvium generally",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0082",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ELEVEN",
+      "quote": "Sound or unsound?- Sound.- Why then do you not seek for them?- Because we have them.- Why then do you fight and quarrel",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0083",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TWO",
+      "quote": "And, to say all in a word, everything which belongs to the body is a stream, and what belongs to the soul is a dream and vapour, and life is a warfare and a stranger's sojourn, and after-fame is oblivion",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0084",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Constantly consider how all things such as they now are, in time past also were; and consider that they will be the same again",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0085",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book EIGHT",
+      "quote": "God has allowed this to no other part, after it has been separated and cut asunder, to come together again",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0086",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book SEVEN",
+      "quote": "In everything which happens keep before thy eyes those to whom the same things happened, and how they were vexed, and treated them as strange things, and found fault with them: and now where are they",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0087",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book NINE",
+      "quote": "But if they acted like tragedy heroes, no one has condemned me to imitate them",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0088",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book THREE",
+      "quote": "No longer wander at hazard; for neither wilt thou read thy own memoirs, nor the acts of the ancient Romans and Hellenes, and the selections from books which thou wast reserving for thy old age",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0089",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book ONE",
+      "quote": "To the gods I am indebted for having good grandfathers, good parents, a good sister, good teachers, good associates, good kinsmen and friends, nearly everything good",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    },
+    {
+      "id": "marcus_aurelius_0090",
+      "author": "Marcus Aurelius",
+      "work": "Meditations",
+      "ref": "Book TEN",
+      "quote": "Like this pig also is he who on his bed in silence laments the bonds in which we are held",
+      "source_url": "https://classics.mit.edu/Antoninus/meditations.mb.txt"
+    }
+  ]
+}

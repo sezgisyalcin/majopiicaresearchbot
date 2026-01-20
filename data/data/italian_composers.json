@@ -1,0 +1,295 @@
+[
+  {
+    "name": "Gioachino Rossini",
+    "period": "romantic",
+    "nationality": "Italian",
+    "born": 1792,
+    "died": 1868,
+    "focus": [
+      "opera",
+      "bel canto"
+    ],
+    "core_works": [
+      "Il barbiere di Siviglia",
+      "Guillaume Tell"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Rossini, Gioachino",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "Opera scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Gaetano Donizetti",
+    "period": "romantic",
+    "nationality": "Italian",
+    "born": 1797,
+    "died": 1848,
+    "focus": [
+      "opera",
+      "bel canto"
+    ],
+    "core_works": [
+      "Lucia di Lammermoor",
+      "L'elisir d'amore"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Donizetti, Gaetano",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "Opera studies (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Vincenzo Bellini",
+    "period": "romantic",
+    "nationality": "Italian",
+    "born": 1801,
+    "died": 1835,
+    "focus": [
+      "opera",
+      "bel canto"
+    ],
+    "core_works": [
+      "Norma",
+      "La sonnambula"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Bellini, Vincenzo",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "Opera scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Giuseppe Verdi",
+    "period": "romantic",
+    "nationality": "Italian",
+    "born": 1813,
+    "died": 1901,
+    "focus": [
+      "opera",
+      "dramatic structure"
+    ],
+    "core_works": [
+      "Rigoletto",
+      "La traviata",
+      "Aida"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Verdi, Giuseppe",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "Opera scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      },
+      {
+        "institution": "Teatro alla Scala · Official Site",
+        "type": "institutional archive",
+        "title": "La Scala (institutional)",
+        "url": "https://www.teatroallascala.org/en/index.html"
+      }
+    ]
+  },
+  {
+    "name": "Giacomo Puccini",
+    "period": "romantic",
+    "nationality": "Italian",
+    "born": 1858,
+    "died": 1924,
+    "focus": [
+      "opera",
+      "verismo"
+    ],
+    "core_works": [
+      "La bohème",
+      "Tosca",
+      "Madama Butterfly"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Puccini, Giacomo",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "Opera scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Ottorino Respighi",
+    "period": "modern",
+    "nationality": "Italian",
+    "born": 1879,
+    "died": 1936,
+    "focus": [
+      "orchestration",
+      "symphonic poems"
+    ],
+    "core_works": [
+      "Pines of Rome",
+      "Fountains of Rome"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Respighi, Ottorino",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Berklee College of Music · Orchestration / Arranging Curriculum",
+        "type": "curriculum reference",
+        "title": "Orchestration/arranging studies (institutional)",
+        "url": "https://www.berklee.edu/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "20th-century music scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Luigi Dallapiccola",
+    "period": "modern",
+    "nationality": "Italian",
+    "born": 1904,
+    "died": 1975,
+    "focus": [
+      "serialism",
+      "twelve-tone"
+    ],
+    "core_works": [
+      "Il prigioniero",
+      "Canti di prigionia"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Dallapiccola, Luigi",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Berklee College of Music · Contemporary Composition Studies",
+        "type": "curriculum reference",
+        "title": "Post-tonal theory/composition (institutional)",
+        "url": "https://www.berklee.edu/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "20th-century music scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Luciano Berio",
+    "period": "contemporary",
+    "nationality": "Italian",
+    "born": 1925,
+    "died": 2003,
+    "focus": [
+      "avant-garde",
+      "extended techniques"
+    ],
+    "core_works": [
+      "Sinfonia",
+      "Sequenza series"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Berio, Luciano",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Berklee College of Music · Contemporary Music Studies",
+        "type": "curriculum reference",
+        "title": "Modern/contemporary repertoire (institutional)",
+        "url": "https://www.berklee.edu/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "post-war modernism scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  },
+  {
+    "name": "Luigi Nono",
+    "period": "contemporary",
+    "nationality": "Italian",
+    "born": 1924,
+    "died": 1990,
+    "focus": [
+      "avant-garde",
+      "electroacoustic"
+    ],
+    "core_works": [
+      "Intolleranza 1960",
+      "Prometeo"
+    ],
+    "sources": [
+      {
+        "institution": "Oxford University Press · Oxford Music Online",
+        "type": "reference entry",
+        "title": "Nono, Luigi",
+        "url": "https://www.oxfordmusiconline.com/"
+      },
+      {
+        "institution": "Berklee College of Music · Contemporary Music Studies",
+        "type": "curriculum reference",
+        "title": "Post-war avant-garde topics (institutional)",
+        "url": "https://www.berklee.edu/"
+      },
+      {
+        "institution": "Cambridge University Press · Music",
+        "type": "scholarly publishing",
+        "title": "post-war modernism scholarship (institutional)",
+        "url": "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      }
+    ]
+  }
+]

@@ -1,0 +1,2757 @@
+{
+  "dataset": "hand_drawn_technique_and_tool_pool",
+  "version": "1.1.0",
+  "language": "en",
+  "policy": {
+    "tone": "academic-neutral",
+    "scope": "hand-drawn animation practice (anime + cartoons), technique + tool pairing for concise bot outputs",
+    "restrictions": [
+      "No fandom slang",
+      "No software-specific terminology",
+      "No tutorial imperatives (avoid 'do X', 'try Y')",
+      "Use craft/production terminology aligned with art-school pedagogy and animation studies"
+    ]
+  },
+  "selection_model": {
+    "mode": "paired-random",
+    "rules": [
+      "Select 1 technique and 1 tool per request",
+      "If a technique has recommended_tools, prefer one of those tools",
+      "Otherwise select a tool from the general pool",
+      "Support optional filters by tags (e.g., 'line', 'cleanup', 'registration')"
+    ]
+  },
+  "controlled_tags": [
+    "line",
+    "cleanup",
+    "registration",
+    "layout",
+    "timing",
+    "motion",
+    "character",
+    "background",
+    "materials",
+    "production",
+    "analysis",
+    "color",
+    "perspective",
+    "lighting",
+    "compositing",
+    "story",
+    "sound",
+    "camera"
+  ],
+  "techniques": [
+    {
+      "id": "tech_key_pose_design",
+      "label": "Key Pose Design",
+      "kind": "technique",
+      "definition": "Designing structurally clear poses that anchor an action’s meaning and motion.",
+      "extended": "Key poses function as communicative units: they establish intent, rhythm, and narrative emphasis, especially when intermediate drawings are reduced.",
+      "tags": [
+        "character",
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_2h_pencil",
+        "tool_lightbox"
+      ],
+      "usage": "Key Pose Design supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_breakdown_drawing",
+      "label": "Breakdown Drawing",
+      "kind": "technique",
+      "definition": "An intermediate drawing that clarifies the path and mechanics between key poses.",
+      "extended": "Breakdowns specify arcs, overlaps, and directional change, supporting motion legibility and structural continuity.",
+      "tags": [
+        "motion",
+        "timing",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_animation_paper",
+        "tool_blue_pencil"
+      ],
+      "usage": "Breakdown Drawing supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_inbetweening",
+      "label": "Inbetweening",
+      "kind": "technique",
+      "definition": "Creating intermediate drawings that smooth transitions between key poses.",
+      "extended": "Inbetween distribution encodes spacing and acceleration; it can be sparse or dense depending on stylistic and production goals.",
+      "tags": [
+        "motion",
+        "timing",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_animation_paper",
+        "tool_2h_pencil"
+      ],
+      "usage": "Inbetweening supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_arc_tracking",
+      "label": "Arc Tracking",
+      "kind": "technique",
+      "definition": "Planning motion along curved trajectories to preserve naturalistic movement.",
+      "extended": "Arcs support believable motion paths and reduce unintended stiffness or jitter across frames.",
+      "tags": [
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_2h_pencil"
+      ],
+      "usage": "Arc Tracking supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_overlap_action",
+      "label": "Overlapping Action",
+      "kind": "technique",
+      "definition": "Staggering motion across parts of a figure to avoid uniform, rigid movement.",
+      "extended": "Overlap improves material realism and rhythm, particularly for hair, cloth, and layered body parts.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_blue_pencil"
+      ],
+      "usage": "Overlapping Action supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_hold_strategy",
+      "label": "Holds and Selective Motion",
+      "kind": "technique",
+      "definition": "Using held drawings with targeted movement to manage drawing density.",
+      "extended": "Holds can be stylistic and communicative, reallocating effort to salient changes such as facial micro-movements or camera shifts.",
+      "tags": [
+        "production",
+        "timing",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_animation_paper",
+        "tool_lightbox"
+      ],
+      "usage": "Holds and Selective Motion supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_mouth_shapes",
+      "label": "Mouth Shape System (Lip-Sync)",
+      "kind": "technique",
+      "definition": "A controlled set of mouth configurations aligned with speech segments.",
+      "extended": "Speech legibility can be maintained through a limited, consistent set of shapes paired with timing decisions.",
+      "tags": [
+        "character",
+        "timing",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_blue_pencil",
+        "tool_2h_pencil"
+      ],
+      "usage": "Mouth Shape System (Lip-Sync) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_eye_line_control",
+      "label": "Eye-Line and Gaze Control",
+      "kind": "technique",
+      "definition": "Managing gaze direction to guide attention and interpersonal dynamics.",
+      "extended": "Gaze is a primary narrative cue that supports staging and social meaning within a shot.",
+      "tags": [
+        "character",
+        "story",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_2h_pencil"
+      ],
+      "usage": "Eye-Line and Gaze Control supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_silhouette_readability",
+      "label": "Silhouette Readability",
+      "kind": "technique",
+      "definition": "Designing poses and staging so forms remain legible as silhouettes.",
+      "extended": "Silhouette clarity supports rapid comprehension under motion and time constraints, especially in stylized systems.",
+      "tags": [
+        "analysis",
+        "layout",
+        "character"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_brush_pen"
+      ],
+      "usage": "Silhouette Readability supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_line_of_action",
+      "label": "Line of Action",
+      "kind": "technique",
+      "definition": "A directional axis that organizes a pose’s energy and movement.",
+      "extended": "Line of action supports gesture coherence and clarifies intent before contour refinement.",
+      "tags": [
+        "character",
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_2h_pencil"
+      ],
+      "usage": "Line of Action supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_continuity_check",
+      "label": "Continuity Checking",
+      "kind": "technique",
+      "definition": "Reviewing successive drawings to maintain consistent scale, spacing, and staging.",
+      "extended": "Continuity checks reduce drift and improve readability across a sequence, especially in hand-drawn pipelines.",
+      "tags": [
+        "production",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_peg_bar"
+      ],
+      "usage": "Continuity Checking supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_model_consistency",
+      "label": "Model Consistency",
+      "kind": "technique",
+      "definition": "Maintaining stable character proportions and identifiers across frames.",
+      "extended": "Consistency preserves character identity under stylization and deformation, and reduces viewer confusion.",
+      "tags": [
+        "character",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_animation_paper"
+      ],
+      "usage": "Model Consistency supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_turnaround_reference",
+      "label": "Turnaround Reference Use",
+      "kind": "technique",
+      "definition": "Using multi-view reference drawings to stabilize form across angles.",
+      "extended": "Turnarounds support consistent volume and landmarks during rotation or camera changes.",
+      "tags": [
+        "character",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_animation_paper",
+        "tool_2h_pencil"
+      ],
+      "usage": "Turnaround Reference Use supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_layout_perspective",
+      "label": "Perspective Layout Construction",
+      "kind": "technique",
+      "definition": "Constructing spatial guides to maintain consistent depth and scale.",
+      "extended": "Perspective construction anchors staging and supports believable interaction between figures and environments.",
+      "tags": [
+        "layout",
+        "perspective",
+        "background"
+      ],
+      "recommended_tools": [
+        "tool_ruler",
+        "tool_t_square",
+        "tool_2h_pencil"
+      ],
+      "usage": "Perspective Layout Construction supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_vanishing_points",
+      "label": "Vanishing Point Management",
+      "kind": "technique",
+      "definition": "Managing vanishing points to keep spatial continuity across shots.",
+      "extended": "Consistent vanishing structure prevents unintended spatial distortion and supports camera continuity.",
+      "tags": [
+        "layout",
+        "perspective"
+      ],
+      "recommended_tools": [
+        "tool_ruler",
+        "tool_t_square"
+      ],
+      "usage": "Vanishing Point Management supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_background_texture",
+      "label": "Background Texture Strategy",
+      "kind": "technique",
+      "definition": "Using controlled texture to support setting without overpowering characters.",
+      "extended": "Texture density is often balanced against silhouette clarity and visual hierarchy.",
+      "tags": [
+        "background",
+        "analysis",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_graphite_set",
+        "tool_ruler"
+      ],
+      "usage": "Background Texture Strategy supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_value_grouping",
+      "label": "Value Grouping",
+      "kind": "technique",
+      "definition": "Organizing light/dark groupings to guide attention and improve readability.",
+      "extended": "Value grouping can stabilize focus under motion and supports clear figure–ground separation.",
+      "tags": [
+        "lighting",
+        "analysis",
+        "layout"
+      ],
+      "recommended_tools": [
+        "tool_charcoal",
+        "tool_white_pencil"
+      ],
+      "usage": "Value Grouping supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_color_script",
+      "label": "Color Script (Conceptual)",
+      "kind": "technique",
+      "definition": "Planning color progressions to support narrative rhythm and mood across scenes.",
+      "extended": "A color script organizes chromatic shifts as a storytelling device, independent of software implementation.",
+      "tags": [
+        "color",
+        "story",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_color_pencils",
+        "tool_marker_set"
+      ],
+      "usage": "Color Script (Conceptual) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_palette_constraints",
+      "label": "Palette Constraint Strategy",
+      "kind": "technique",
+      "definition": "Limiting palette to maintain coherence and production consistency.",
+      "extended": "Constraints can clarify identity and reduce visual noise, especially in multi-artist pipelines.",
+      "tags": [
+        "color",
+        "production",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_color_pencils",
+        "tool_marker_set"
+      ],
+      "usage": "Palette Constraint Strategy supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_shadow_design",
+      "label": "Shadow Design (Hand-Drawn)",
+      "kind": "technique",
+      "definition": "Designing shadow shapes to communicate form, light direction, and emphasis.",
+      "extended": "Shadow design supports volume and hierarchy while remaining consistent across frames.",
+      "tags": [
+        "lighting",
+        "line",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_brush_pen",
+        "tool_marker_set"
+      ],
+      "usage": "Shadow Design (Hand-Drawn) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_highlight_control",
+      "label": "Highlight Control",
+      "kind": "technique",
+      "definition": "Using controlled highlights to direct attention and signal material qualities.",
+      "extended": "Highlights can be used sparingly as focal cues, especially when animation is limited.",
+      "tags": [
+        "lighting",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_white_pencil",
+        "tool_marker_set"
+      ],
+      "usage": "Highlight Control supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_camera_planning",
+      "label": "Camera Planning (Hand-Drawn)",
+      "kind": "technique",
+      "definition": "Planning camera framing and movement as part of layout and staging.",
+      "extended": "Camera planning coordinates background continuity, character blocking, and narrative emphasis.",
+      "tags": [
+        "camera",
+        "layout",
+        "story"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels",
+        "tool_ruler"
+      ],
+      "usage": "Camera Planning (Hand-Drawn) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_storyboarding",
+      "label": "Storyboarding",
+      "kind": "technique",
+      "definition": "Sequencing key images to plan narrative structure and shot logic.",
+      "extended": "Storyboards function as pre-visualization for staging, pacing, and continuity decisions.",
+      "tags": [
+        "story",
+        "production",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels",
+        "tool_blue_pencil"
+      ],
+      "usage": "Storyboarding supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_animatic_planning",
+      "label": "Animatic Planning (Conceptual)",
+      "kind": "technique",
+      "definition": "Establishing timing and shot rhythm through sequenced storyboard frames.",
+      "extended": "Animatic planning supports pacing decisions and early detection of continuity or emphasis issues.",
+      "tags": [
+        "story",
+        "timing",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels"
+      ],
+      "usage": "Animatic Planning (Conceptual) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_exposure_sheet",
+      "label": "Exposure Sheet Planning",
+      "kind": "technique",
+      "definition": "Using an exposure structure to coordinate timing of drawings and elements.",
+      "extended": "Exposure planning aligns holds, dialogue timing, and multi-layer events for consistent sequencing.",
+      "tags": [
+        "timing",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_exposure_sheet_template"
+      ],
+      "usage": "Exposure Sheet Planning supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_fx_animation",
+      "label": "Effects Animation (Hand-Drawn)",
+      "kind": "technique",
+      "definition": "Animating non-character phenomena such as smoke, water, or debris.",
+      "extended": "Effects animation often uses stylized conventions to communicate physical behavior and force.",
+      "tags": [
+        "motion",
+        "production",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_brush_pen"
+      ],
+      "usage": "Effects Animation (Hand-Drawn) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_water_motion",
+      "label": "Water Motion Stylization",
+      "kind": "technique",
+      "definition": "Using simplified wave and splash structures to communicate fluid dynamics.",
+      "extended": "Stylized water relies on rhythm, spacing, and graphic conventions rather than literal simulation.",
+      "tags": [
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_brush_pen",
+        "tool_ink"
+      ],
+      "usage": "Water Motion Stylization supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_smoke_drift",
+      "label": "Smoke and Vapor Drift",
+      "kind": "technique",
+      "definition": "Representing diffuse motion through layered shapes and soft transitions.",
+      "extended": "Drift cues support atmosphere and depth without demanding dense redraws.",
+      "tags": [
+        "motion",
+        "background",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_charcoal",
+        "tool_soft_pencil_set"
+      ],
+      "usage": "Smoke and Vapor Drift supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_cloth_dynamics",
+      "label": "Cloth Dynamics Indication",
+      "kind": "technique",
+      "definition": "Encoding fabric behavior through folds, overlaps, and delayed follow-through.",
+      "extended": "Cloth cues reinforce weight and motion direction while preserving silhouette clarity.",
+      "tags": [
+        "motion",
+        "character",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_lightbox"
+      ],
+      "usage": "Cloth Dynamics Indication supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_hair_motion",
+      "label": "Hair Motion Indication",
+      "kind": "technique",
+      "definition": "Representing hair as grouped masses with delayed motion and overlap.",
+      "extended": "Mass grouping supports readability and reduces line noise in fast sequences.",
+      "tags": [
+        "motion",
+        "character"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_lightbox"
+      ],
+      "usage": "Hair Motion Indication supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_background_pan",
+      "label": "Background Pan Construction",
+      "kind": "technique",
+      "definition": "Planning lateral background movement to simulate camera pan.",
+      "extended": "Pan construction aligns perspective and repeating elements to preserve spatial continuity.",
+      "tags": [
+        "camera",
+        "background",
+        "layout"
+      ],
+      "recommended_tools": [
+        "tool_ruler",
+        "tool_t_square"
+      ],
+      "usage": "Background Pan Construction supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_multiplane_logic",
+      "label": "Multiplane Depth Logic",
+      "kind": "technique",
+      "definition": "Separating planes to create parallax and depth cues.",
+      "extended": "Plane separation supports depth perception and reduces redraw scope by isolating motion to specific layers.",
+      "tags": [
+        "camera",
+        "production",
+        "background"
+      ],
+      "recommended_tools": [
+        "tool_animation_paper",
+        "tool_lightbox"
+      ],
+      "usage": "Multiplane Depth Logic supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_cutout_elements",
+      "label": "Cutout Element Preparation",
+      "kind": "technique",
+      "definition": "Preparing discrete elements for reuse while preserving visual consistency.",
+      "extended": "Cutout preparation supports selective motion under constraints without collapsing style coherence.",
+      "tags": [
+        "production",
+        "materials"
+      ],
+      "recommended_tools": [
+        "tool_precision_knife",
+        "tool_cutting_mat"
+      ],
+      "usage": "Cutout Element Preparation supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_registration_marks",
+      "label": "Registration Marking",
+      "kind": "technique",
+      "definition": "Using consistent marks to align layers and reduce drift.",
+      "extended": "Marking supports stable compositing of hand-drawn layers.",
+      "tags": [
+        "registration",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_peg_bar",
+        "tool_animation_paper"
+      ],
+      "usage": "Registration Marking supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_clean_line_quality",
+      "label": "Clean Line Quality Control",
+      "kind": "technique",
+      "definition": "Stabilizing stroke consistency to reduce visual flicker across frames.",
+      "extended": "Line quality control focuses on repeatable contours, weight, and junction clarity.",
+      "tags": [
+        "cleanup",
+        "line",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_g_pen",
+        "tool_lightbox"
+      ],
+      "usage": "Clean Line Quality Control supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_noise_reduction",
+      "label": "Line Noise Reduction",
+      "kind": "technique",
+      "definition": "Reducing unintended texture or jitter that distracts from action reading.",
+      "extended": "Noise reduction improves figure–ground separation and supports visual hierarchy.",
+      "tags": [
+        "cleanup",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_kneaded_eraser",
+        "tool_2h_pencil"
+      ],
+      "usage": "Line Noise Reduction supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_graphic_simplification",
+      "label": "Graphic Simplification",
+      "kind": "technique",
+      "definition": "Reducing detail to prioritize salient cues for rapid comprehension.",
+      "extended": "Simplification supports expressive economy and can be culturally conventional within a style system.",
+      "tags": [
+        "analysis",
+        "production",
+        "style"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil"
+      ],
+      "usage": "Graphic Simplification supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_visual_hierarchy",
+      "label": "Visual Hierarchy",
+      "kind": "technique",
+      "definition": "Organizing emphasis to guide attention through contrast, weight, and composition.",
+      "extended": "Hierarchy improves readability under motion and time constraints.",
+      "tags": [
+        "analysis",
+        "layout"
+      ],
+      "recommended_tools": [
+        "tool_marker_set",
+        "tool_brush_pen"
+      ],
+      "usage": "Visual Hierarchy supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_staging_composition",
+      "label": "Staging and Composition",
+      "kind": "technique",
+      "definition": "Arranging forms so narrative intent is immediately legible.",
+      "extended": "Staging uses silhouette, contrast, and spatial arrangement to clarify action and relationships.",
+      "tags": [
+        "layout",
+        "story",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels",
+        "tool_blue_pencil"
+      ],
+      "usage": "Staging and Composition supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_smear_frames",
+      "label": "Smear Frames (Hand-Drawn)",
+      "kind": "technique",
+      "definition": "A deliberate distortion of form within a single drawing to encode rapid motion.",
+      "extended": "Smear frames compress motion information into one image to strengthen perceived velocity when spacing is wide.",
+      "tags": [
+        "motion",
+        "timing",
+        "line"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_g_pen"
+      ],
+      "usage": "Smear Frames (Hand-Drawn) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_symbolic_motion",
+      "label": "Symbolic Motion Cues",
+      "kind": "technique",
+      "definition": "Graphic signs used to represent force, direction, or impact.",
+      "extended": "Symbolic cues communicate dynamics efficiently under limited drawing density.",
+      "tags": [
+        "motion",
+        "analysis",
+        "line"
+      ],
+      "recommended_tools": [
+        "tool_brush_pen",
+        "tool_g_pen"
+      ],
+      "usage": "Symbolic Motion Cues supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_impact_frames",
+      "label": "Impact Frames",
+      "kind": "technique",
+      "definition": "Brief emphasis frames used to mark collision, shock, or forceful events.",
+      "extended": "Impact frames can increase legibility and rhythmic emphasis without adding continuous motion.",
+      "tags": [
+        "timing",
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_marker_set",
+        "tool_brush_pen"
+      ],
+      "usage": "Impact Frames supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_cycle_animation",
+      "label": "Cycle Animation",
+      "kind": "technique",
+      "definition": "Reusing a sequence of drawings to represent repeated motion such as walking.",
+      "extended": "Cycles support efficiency and rhythmic consistency, often adjusted with timing and spacing edits.",
+      "tags": [
+        "production",
+        "timing",
+        "motion"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_animation_paper"
+      ],
+      "usage": "Cycle Animation supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_walk_cycle_analysis",
+      "label": "Walk Cycle Analysis",
+      "kind": "technique",
+      "definition": "Structuring gait phases to maintain balance, weight shift, and rhythm.",
+      "extended": "Walk analysis focuses on contact, passing, and recoil phases as readable motion units.",
+      "tags": [
+        "motion",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_blue_pencil"
+      ],
+      "usage": "Walk Cycle Analysis supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_run_cycle",
+      "label": "Run Cycle Structuring",
+      "kind": "technique",
+      "definition": "Designing running phases to communicate speed, weight, and intent.",
+      "extended": "Run cycles prioritize spacing patterns and silhouette clarity for rapid reading.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_blue_pencil"
+      ],
+      "usage": "Run Cycle Structuring supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_dialogue_timing",
+      "label": "Dialogue Timing",
+      "kind": "technique",
+      "definition": "Coordinating mouth shapes and facial emphasis to match speech rhythm.",
+      "extended": "Dialogue timing relies on emphasis beats, holds, and selective redraw rather than constant motion.",
+      "tags": [
+        "timing",
+        "character",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_exposure_sheet_template",
+        "tool_lightbox"
+      ],
+      "usage": "Dialogue Timing supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_facial_micro_motion",
+      "label": "Facial Micro-Motion",
+      "kind": "technique",
+      "definition": "Small-scale redraws of eyes, brows, and mouth to sustain expression under holds.",
+      "extended": "Micro-motion preserves liveliness and conversational nuance with limited redraw scope.",
+      "tags": [
+        "character",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_lightbox"
+      ],
+      "usage": "Facial Micro-Motion supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_background_design_language",
+      "label": "Background Design Language",
+      "kind": "technique",
+      "definition": "Using consistent shape language and motifs to stabilize world identity.",
+      "extended": "Design language supports coherence across shots and multiple artists.",
+      "tags": [
+        "background",
+        "analysis",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_marker_set",
+        "tool_color_pencils"
+      ],
+      "usage": "Background Design Language supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_prop_consistency",
+      "label": "Prop Consistency",
+      "kind": "technique",
+      "definition": "Maintaining stable prop scale and identifiers across frames and shots.",
+      "extended": "Prop consistency supports continuity and reduces unintended narrative confusion.",
+      "tags": [
+        "production",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_animation_paper"
+      ],
+      "usage": "Prop Consistency supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_depth_cues",
+      "label": "Depth Cue Management",
+      "kind": "technique",
+      "definition": "Using overlap, scale, and atmospheric cues to reinforce spatial relations.",
+      "extended": "Depth cues support readability and staging, especially in dense backgrounds.",
+      "tags": [
+        "layout",
+        "analysis",
+        "background"
+      ],
+      "recommended_tools": [
+        "tool_charcoal",
+        "tool_ruler"
+      ],
+      "usage": "Depth Cue Management supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_atmospheric_perspective",
+      "label": "Atmospheric Perspective (Hand-Drawn)",
+      "kind": "technique",
+      "definition": "Reducing contrast and detail with distance to imply depth.",
+      "extended": "Atmospheric perspective supports figure–ground separation and spatial hierarchy.",
+      "tags": [
+        "background",
+        "analysis",
+        "lighting"
+      ],
+      "recommended_tools": [
+        "tool_charcoal",
+        "tool_marker_set"
+      ],
+      "usage": "Atmospheric Perspective (Hand-Drawn) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_material_indication",
+      "label": "Material Indication",
+      "kind": "technique",
+      "definition": "Encoding surface properties through line, texture, and highlight strategy.",
+      "extended": "Material cues often prioritize readability and hierarchy over photorealism.",
+      "tags": [
+        "analysis",
+        "line",
+        "lighting"
+      ],
+      "recommended_tools": [
+        "tool_brush_pen",
+        "tool_white_pencil"
+      ],
+      "usage": "Material Indication supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_sound_sync_cues",
+      "label": "Sound Synchronization Cues",
+      "kind": "technique",
+      "definition": "Aligning visual emphasis moments with sound events for coherent rhythm.",
+      "extended": "Sound alignment can be planned through timing structures even in hand-drawn pipelines.",
+      "tags": [
+        "sound",
+        "timing",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_exposure_sheet_template"
+      ],
+      "usage": "Sound Synchronization Cues supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_title_card_design",
+      "label": "Title Card and Intertitle Design",
+      "kind": "technique",
+      "definition": "Designing text frames that function as narrative or structural elements.",
+      "extended": "Title cards can manage pacing and context while preserving visual coherence with the style system.",
+      "tags": [
+        "story",
+        "design",
+        "production"
+      ],
+      "recommended_tools": [
+        "tool_marker_set",
+        "tool_ruler"
+      ],
+      "usage": "Title Card and Intertitle Design supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_scene_transition",
+      "label": "Scene Transition Planning",
+      "kind": "technique",
+      "definition": "Structuring transitions to preserve continuity and narrative coherence.",
+      "extended": "Transitions manage rhythm and viewer orientation, often through staging and timing rather than motion density.",
+      "tags": [
+        "story",
+        "timing",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels"
+      ],
+      "usage": "Scene Transition Planning supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_line_cleanup_junctions",
+      "label": "Junction Clarity",
+      "kind": "technique",
+      "definition": "Refining line junctions so intersections read cleanly without unintended tangents.",
+      "extended": "Junction clarity reduces visual ambiguity and helps maintain stable form identity across frames.",
+      "tags": [
+        "cleanup",
+        "line",
+        "analysis"
+      ],
+      "recommended_tools": [
+        "tool_g_pen",
+        "tool_lightbox",
+        "tool_kneaded_eraser"
+      ],
+      "usage": "Junction Clarity supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_tangent_avoidance",
+      "label": "Tangent Avoidance",
+      "kind": "technique",
+      "definition": "Avoiding accidental edge alignments that flatten depth or confuse figure–ground relations.",
+      "extended": "Tangent avoidance improves spatial reading and supports visual hierarchy in complex compositions.",
+      "tags": [
+        "analysis",
+        "layout"
+      ],
+      "recommended_tools": [
+        "tool_blue_pencil",
+        "tool_lightbox"
+      ],
+      "usage": "Tangent Avoidance supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_scale_control",
+      "label": "Scale Control",
+      "kind": "technique",
+      "definition": "Maintaining consistent relative size of characters and objects across frames and shots.",
+      "extended": "Scale control supports continuity and reduces perceptual drift during camera or pose changes.",
+      "tags": [
+        "production",
+        "analysis",
+        "layout"
+      ],
+      "recommended_tools": [
+        "tool_lightbox",
+        "tool_ruler"
+      ],
+      "usage": "Scale Control supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_registration_test_flip",
+      "label": "Flip Test (Physical)",
+      "kind": "technique",
+      "definition": "Rapidly flipping drawings to check motion continuity and registration stability.",
+      "extended": "Flip tests are a traditional verification method for jitter, spacing, and rhythm before finalization.",
+      "tags": [
+        "production",
+        "analysis",
+        "registration"
+      ],
+      "recommended_tools": [
+        "tool_flipbook_clips",
+        "tool_animation_paper"
+      ],
+      "usage": "Flip Test (Physical) supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tech_composition_balance",
+      "label": "Composition Balancing",
+      "kind": "technique",
+      "definition": "Balancing masses, negatives, and focal cues to sustain readability over time.",
+      "extended": "Balancing supports stable attention guidance, especially when action competes with background detail.",
+      "tags": [
+        "analysis",
+        "layout",
+        "story"
+      ],
+      "recommended_tools": [
+        "tool_storyboard_panels",
+        "tool_ruler"
+      ],
+      "usage": "Composition Balancing supports clarity and continuity in hand-drawn animation practice.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    }
+  ],
+  "tools": [
+    {
+      "id": "tool_g_pen",
+      "label": "G Pen (Dip Pen)",
+      "kind": "tool",
+      "definition": "Metal-nib dip pen valued for pressure-responsive line variation.",
+      "extended": "Supports dynamic line weight and stable contours when used with consistent handling.",
+      "tags": [
+        "materials",
+        "line",
+        "production"
+      ],
+      "usage": "G Pen (Dip Pen) supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_brush_pen",
+      "label": "Brush Pen",
+      "kind": "tool",
+      "definition": "Flexible-tip pen producing variable stroke widths.",
+      "extended": "Useful for emphasis lines, shadow shapes, and expressive contours.",
+      "tags": [
+        "materials",
+        "line"
+      ],
+      "usage": "Brush Pen supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_2h_pencil",
+      "label": "2H Pencil",
+      "kind": "tool",
+      "definition": "Hard graphite pencil for light construction and drafting.",
+      "extended": "Reduces smudging and supports clean layout/perspective construction.",
+      "tags": [
+        "materials",
+        "layout",
+        "production"
+      ],
+      "usage": "2H Pencil supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_hb_pencil",
+      "label": "HB Pencil",
+      "kind": "tool",
+      "definition": "Medium graphite pencil balancing darkness and control.",
+      "extended": "Common for roughs and mid-stage refinement where visibility matters.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "HB Pencil supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_soft_pencil_set",
+      "label": "Soft Pencil Set (2B–6B)",
+      "kind": "tool",
+      "definition": "Softer graphite pencils for darker marks and tonal studies.",
+      "extended": "Useful for value grouping and atmospheric depth cues in planning.",
+      "tags": [
+        "materials",
+        "lighting",
+        "analysis"
+      ],
+      "usage": "Soft Pencil Set (2B–6B) supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_blue_pencil",
+      "label": "Non-Photo Blue Pencil",
+      "kind": "tool",
+      "definition": "Light blue pencil used for planning lines distinct from finals.",
+      "extended": "Supports gesture and key planning with minimal interference during clean-up.",
+      "tags": [
+        "materials",
+        "production",
+        "character"
+      ],
+      "usage": "Non-Photo Blue Pencil supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_lightbox",
+      "label": "Lightbox (Light Table)",
+      "kind": "tool",
+      "definition": "Backlit surface to view and align multiple drawings.",
+      "extended": "Supports registration checks, inbetweening, and continuity review.",
+      "tags": [
+        "production",
+        "registration",
+        "materials"
+      ],
+      "usage": "Lightbox (Light Table) supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_animation_paper",
+      "label": "Animation Paper (Peg-Hole)",
+      "kind": "tool",
+      "definition": "Standardized punched paper for stable alignment.",
+      "extended": "Works with peg bars to maintain consistent placement across frames.",
+      "tags": [
+        "registration",
+        "production",
+        "materials"
+      ],
+      "usage": "Animation Paper (Peg-Hole) supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_peg_bar",
+      "label": "Peg Bar",
+      "kind": "tool",
+      "definition": "Registration device that holds punched paper in fixed position.",
+      "extended": "Reduces drift and supports multi-layer alignment.",
+      "tags": [
+        "registration",
+        "production"
+      ],
+      "usage": "Peg Bar supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_kneaded_eraser",
+      "label": "Kneaded Eraser",
+      "kind": "tool",
+      "definition": "Pliable eraser that lifts graphite with controlled pressure.",
+      "extended": "Supports gradual clean-up without damaging paper fibers.",
+      "tags": [
+        "materials",
+        "cleanup"
+      ],
+      "usage": "Kneaded Eraser supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_vinyl_eraser",
+      "label": "Vinyl Eraser",
+      "kind": "tool",
+      "definition": "Firm eraser for stronger removal of graphite marks.",
+      "extended": "Useful for decisive clean-up on heavier paper stocks.",
+      "tags": [
+        "materials",
+        "cleanup"
+      ],
+      "usage": "Vinyl Eraser supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_ink",
+      "label": "Drawing Ink",
+      "kind": "tool",
+      "definition": "Pigmented liquid for high-contrast line work with pens/brushes.",
+      "extended": "Used after decisions are stabilized; supports reproducible line quality.",
+      "tags": [
+        "materials",
+        "line"
+      ],
+      "usage": "Drawing Ink supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_ruler",
+      "label": "Ruler",
+      "kind": "tool",
+      "definition": "Measuring and drafting tool for controlled straight edges.",
+      "extended": "Supports perspective layout and background construction.",
+      "tags": [
+        "layout",
+        "background",
+        "materials"
+      ],
+      "usage": "Ruler supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_t_square",
+      "label": "T-Square",
+      "kind": "tool",
+      "definition": "Drafting tool for consistent horizontal construction.",
+      "extended": "Useful for background layout and repeated alignment tasks.",
+      "tags": [
+        "layout",
+        "background"
+      ],
+      "usage": "T-Square supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_french_curves",
+      "label": "French Curves",
+      "kind": "tool",
+      "definition": "Template curves for controlled repeated curvature.",
+      "extended": "Supports consistent arcs and contour segments in clean-up.",
+      "tags": [
+        "line",
+        "materials",
+        "cleanup"
+      ],
+      "usage": "French Curves supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_circle_template",
+      "label": "Circle/Ellipse Template",
+      "kind": "tool",
+      "definition": "Template for repeated circular/elliptical forms.",
+      "extended": "Supports consistent wheels, eyes, and mechanical elements across frames.",
+      "tags": [
+        "layout",
+        "materials"
+      ],
+      "usage": "Circle/Ellipse Template supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_tracing_paper",
+      "label": "Tracing Paper",
+      "kind": "tool",
+      "definition": "Semi-transparent paper for iterative alignment and transfers.",
+      "extended": "Useful for layout planning, overlays, and quick revisions.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Tracing Paper supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_marker_set",
+      "label": "Marker Set",
+      "kind": "tool",
+      "definition": "Alcohol- or water-based markers for flat value and color blocking.",
+      "extended": "Useful for conceptual value grouping and palette planning.",
+      "tags": [
+        "color",
+        "materials",
+        "analysis"
+      ],
+      "usage": "Marker Set supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_color_pencils",
+      "label": "Color Pencils",
+      "kind": "tool",
+      "definition": "Pigmented pencils for controlled color and texture.",
+      "extended": "Useful for color scripting concepts and localized emphasis.",
+      "tags": [
+        "color",
+        "materials"
+      ],
+      "usage": "Color Pencils supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_white_pencil",
+      "label": "White Pencil",
+      "kind": "tool",
+      "definition": "Light pencil for highlights on toned surfaces.",
+      "extended": "Supports highlight planning and value contrast studies.",
+      "tags": [
+        "lighting",
+        "materials",
+        "analysis"
+      ],
+      "usage": "White Pencil supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_charcoal",
+      "label": "Charcoal",
+      "kind": "tool",
+      "definition": "Dry medium for broad tonal studies and atmospheric depth planning.",
+      "extended": "Supports quick value grouping and compositional massing.",
+      "tags": [
+        "lighting",
+        "materials",
+        "analysis"
+      ],
+      "usage": "Charcoal supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_fixative",
+      "label": "Fixative Spray",
+      "kind": "tool",
+      "definition": "Spray used to reduce smudging on dry media.",
+      "extended": "Helps preserve tonal studies and layered graphite/charcoal marks.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Fixative Spray supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_precision_knife",
+      "label": "Precision Craft Knife",
+      "kind": "tool",
+      "definition": "Fine cutting tool for controlled trimming of materials.",
+      "extended": "Used for mask/cutout preparation and material handling.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Precision Craft Knife supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_cutting_mat",
+      "label": "Cutting Mat",
+      "kind": "tool",
+      "definition": "Protective mat enabling safe, precise cutting.",
+      "extended": "Stabilizes cutting operations and preserves work surfaces.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Cutting Mat supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_flipbook_clips",
+      "label": "Flipbook Clips",
+      "kind": "tool",
+      "definition": "Clips used to hold stacks for rapid flipping tests.",
+      "extended": "Supports quick motion continuity checks without full setup.",
+      "tags": [
+        "production",
+        "analysis"
+      ],
+      "usage": "Flipbook Clips supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_storyboard_panels",
+      "label": "Storyboard Panel Sheets",
+      "kind": "tool",
+      "definition": "Pre-formatted sheets supporting shot planning and sequencing.",
+      "extended": "Used for staging, continuity, and narrative rhythm planning.",
+      "tags": [
+        "story",
+        "production"
+      ],
+      "usage": "Storyboard Panel Sheets supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_exposure_sheet_template",
+      "label": "Exposure Sheet Template",
+      "kind": "tool",
+      "definition": "Timing sheet format to coordinate drawings, holds, and events.",
+      "extended": "Supports timing structure for dialogue, holds, and multi-layer elements.",
+      "tags": [
+        "timing",
+        "production"
+      ],
+      "usage": "Exposure Sheet Template supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_brushes",
+      "label": "Ink Brushes",
+      "kind": "tool",
+      "definition": "Brushes for variable-width ink lines and shadow shapes.",
+      "extended": "Useful for expressive contours and controlled shadow design.",
+      "tags": [
+        "materials",
+        "line"
+      ],
+      "usage": "Ink Brushes supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_gouache",
+      "label": "Gouache",
+      "kind": "tool",
+      "definition": "Opaque paint for controlled value and color studies.",
+      "extended": "Used in conceptual background and lighting exploration.",
+      "tags": [
+        "color",
+        "lighting",
+        "materials"
+      ],
+      "usage": "Gouache supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_watercolor",
+      "label": "Watercolor",
+      "kind": "tool",
+      "definition": "Transparent paint for layered tonal and color studies.",
+      "extended": "Useful for atmospheric and background mood planning.",
+      "tags": [
+        "color",
+        "materials",
+        "analysis"
+      ],
+      "usage": "Watercolor supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_pastels",
+      "label": "Soft Pastels",
+      "kind": "tool",
+      "definition": "Dry pigment sticks for broad color/value blocking.",
+      "extended": "Supports rapid mood and palette exploration.",
+      "tags": [
+        "color",
+        "materials"
+      ],
+      "usage": "Soft Pastels supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_blending_stump",
+      "label": "Blending Stump",
+      "kind": "tool",
+      "definition": "Paper tool for smoothing graphite/charcoal transitions.",
+      "extended": "Used to control tonal gradients in value studies.",
+      "tags": [
+        "lighting",
+        "materials"
+      ],
+      "usage": "Blending Stump supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_sandpaper_block",
+      "label": "Sandpaper Block",
+      "kind": "tool",
+      "definition": "Abrasive block to shape pencil points.",
+      "extended": "Supports consistent point profiles for line control.",
+      "tags": [
+        "materials",
+        "line",
+        "cleanup"
+      ],
+      "usage": "Sandpaper Block supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_lead_pointer",
+      "label": "Lead Pointer",
+      "kind": "tool",
+      "definition": "Sharpener for controlled pencil points.",
+      "extended": "Supports consistent line precision across production sessions.",
+      "tags": [
+        "materials",
+        "line"
+      ],
+      "usage": "Lead Pointer supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_mechanical_pencil",
+      "label": "Mechanical Pencil",
+      "kind": "tool",
+      "definition": "Pencil with consistent lead diameter for precise drafting.",
+      "extended": "Useful for layout construction and repeated fine lines.",
+      "tags": [
+        "layout",
+        "materials",
+        "production"
+      ],
+      "usage": "Mechanical Pencil supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_col_erase_pencil",
+      "label": "Colored Pencil (Construction)",
+      "kind": "tool",
+      "definition": "Colored pencil used to separate construction from final lines.",
+      "extended": "Supports visual separation during clean-up and review.",
+      "tags": [
+        "materials",
+        "production",
+        "cleanup"
+      ],
+      "usage": "Colored Pencil (Construction) supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_masking_tape",
+      "label": "Masking Tape",
+      "kind": "tool",
+      "definition": "Low-tack tape for temporary holds and masking.",
+      "extended": "Used in material handling and compositional studies.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Masking Tape supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_lighting_reference_card",
+      "label": "Lighting Reference Card",
+      "kind": "tool",
+      "definition": "Simple reference card to note light direction and key values.",
+      "extended": "Supports consistency of shadow/highlight design across frames.",
+      "tags": [
+        "lighting",
+        "production",
+        "analysis"
+      ],
+      "usage": "Lighting Reference Card supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_perspective_grid_sheet",
+      "label": "Perspective Grid Sheet",
+      "kind": "tool",
+      "definition": "Pre-ruled grid for rapid perspective planning.",
+      "extended": "Supports consistent spatial construction in layout tasks.",
+      "tags": [
+        "layout",
+        "perspective",
+        "materials"
+      ],
+      "usage": "Perspective Grid Sheet supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_calipers",
+      "label": "Calipers",
+      "kind": "tool",
+      "definition": "Measuring tool for consistent proportional checks.",
+      "extended": "Useful for repeated size verification of key landmarks.",
+      "tags": [
+        "production",
+        "analysis",
+        "materials"
+      ],
+      "usage": "Calipers supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_triangle_set",
+      "label": "Set Squares",
+      "kind": "tool",
+      "definition": "Drafting triangles for consistent angles.",
+      "extended": "Used for perspective construction and background drafting.",
+      "tags": [
+        "layout",
+        "perspective",
+        "materials"
+      ],
+      "usage": "Set Squares supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_compass",
+      "label": "Compass",
+      "kind": "tool",
+      "definition": "Tool for drawing circles/arcs with fixed radius.",
+      "extended": "Useful for mechanical elements and repeatable curvature.",
+      "tags": [
+        "layout",
+        "materials"
+      ],
+      "usage": "Compass supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_laminated_reference",
+      "label": "Laminated Model Reference",
+      "kind": "tool",
+      "definition": "Durable reference sheet used at the desk during production.",
+      "extended": "Supports consistent landmarks and proportion checks.",
+      "tags": [
+        "production",
+        "character"
+      ],
+      "usage": "Laminated Model Reference supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_line_test_sheet",
+      "label": "Line Test Sheet",
+      "kind": "tool",
+      "definition": "Printed/blank sheet for assessing stroke consistency.",
+      "extended": "Used to calibrate pen pressure and ink flow.",
+      "tags": [
+        "line",
+        "production",
+        "analysis"
+      ],
+      "usage": "Line Test Sheet supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_ink_well",
+      "label": "Ink Well",
+      "kind": "tool",
+      "definition": "Container for controlled dip-pen ink access.",
+      "extended": "Supports repeatable loading during long sessions.",
+      "tags": [
+        "materials",
+        "line"
+      ],
+      "usage": "Ink Well supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_cleaning_cloth",
+      "label": "Cleaning Cloth",
+      "kind": "tool",
+      "definition": "Cloth for cleaning nibs/brushes to maintain line quality.",
+      "extended": "Helps prevent ink buildup that changes stroke behavior.",
+      "tags": [
+        "materials",
+        "cleanup",
+        "production"
+      ],
+      "usage": "Cleaning Cloth supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_gloves",
+      "label": "Drawing Gloves",
+      "kind": "tool",
+      "definition": "Gloves used to reduce smudging during handling.",
+      "extended": "Helps maintain clean surfaces during clean-up and tonal work.",
+      "tags": [
+        "materials",
+        "cleanup"
+      ],
+      "usage": "Drawing Gloves supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_drafting_board",
+      "label": "Drafting Board",
+      "kind": "tool",
+      "definition": "Stable board providing consistent drawing support.",
+      "extended": "Improves line control and reduces paper warping.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Drafting Board supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_binder_clips",
+      "label": "Binder Clips",
+      "kind": "tool",
+      "definition": "Clips for securing paper stacks and layers.",
+      "extended": "Supports stable alignment during registration checks.",
+      "tags": [
+        "registration",
+        "production"
+      ],
+      "usage": "Binder Clips supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_light_pad",
+      "label": "Portable Light Pad",
+      "kind": "tool",
+      "definition": "Compact light source for alignment outside a full lightbox.",
+      "extended": "Supports quick registration and overlay checks.",
+      "tags": [
+        "production",
+        "registration",
+        "materials"
+      ],
+      "usage": "Portable Light Pad supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_eraser_shield",
+      "label": "Eraser Shield",
+      "kind": "tool",
+      "definition": "Metal/plastic template shielding areas during erasing.",
+      "extended": "Supports precise clean-up without disturbing adjacent lines.",
+      "tags": [
+        "cleanup",
+        "materials"
+      ],
+      "usage": "Eraser Shield supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_graphite_set",
+      "label": "Graphite Stick",
+      "kind": "tool",
+      "definition": "Broad graphite for massing and tone blocks.",
+      "extended": "Useful for value grouping and compositional studies.",
+      "tags": [
+        "lighting",
+        "materials",
+        "analysis"
+      ],
+      "usage": "Graphite Stick supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "tool_stencil_set",
+      "label": "Stencil Set",
+      "kind": "tool",
+      "definition": "Templates for repeated shapes and lettering.",
+      "extended": "Supports consistent signage/props and clean repeated forms.",
+      "tags": [
+        "layout",
+        "production",
+        "materials"
+      ],
+      "usage": "Stencil Set supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_reference_prints",
+      "label": "Reference Prints",
+      "kind": "tool",
+      "definition": "Printed references for forms, materials, or settings.",
+      "extended": "Supports consistent depiction and design language across shots.",
+      "tags": [
+        "analysis",
+        "production"
+      ],
+      "usage": "Reference Prints supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_color_chip_book",
+      "label": "Color Chip Book",
+      "kind": "tool",
+      "definition": "Reference swatches for consistent color naming and selection.",
+      "extended": "Supports palette constraints and cross-artist communication.",
+      "tags": [
+        "color",
+        "production"
+      ],
+      "usage": "Color Chip Book supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_adhesive_spray",
+      "label": "Adhesive Spray",
+      "kind": "tool",
+      "definition": "Temporary adhesive for mounting reference or composites.",
+      "extended": "Used in layout and presentation preparation.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Adhesive Spray supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_acetate_sheet",
+      "label": "Acetate Sheet",
+      "kind": "tool",
+      "definition": "Transparent sheet used for overlays and alignment tests.",
+      "extended": "Supports plane separation planning and compositing mockups.",
+      "tags": [
+        "compositing",
+        "production",
+        "materials"
+      ],
+      "usage": "Acetate Sheet supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_registration_hole_punch",
+      "label": "Animation Hole Punch",
+      "kind": "tool",
+      "definition": "Punch aligned to standard peg spacing.",
+      "extended": "Ensures consistent registration holes for custom sheets.",
+      "tags": [
+        "registration",
+        "production",
+        "materials"
+      ],
+      "usage": "Animation Hole Punch supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_pencil_extender",
+      "label": "Pencil Extender",
+      "kind": "tool",
+      "definition": "Holder that extends the life of short pencils while preserving grip control.",
+      "extended": "Supports consistent handling during long clean-up sessions.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Pencil Extender supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "tool_portfolio_sleeves",
+      "label": "Archival Sleeves",
+      "kind": "tool",
+      "definition": "Protective sleeves for storing and organizing drawings.",
+      "extended": "Supports preservation and systematic retrieval of production materials.",
+      "tags": [
+        "materials",
+        "production"
+      ],
+      "usage": "Archival Sleeves supports controlled work in hand-drawn production contexts.",
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    }
+  ]
+}

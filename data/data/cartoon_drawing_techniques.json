@@ -1,0 +1,228 @@
+{
+  "dataset": "cartoon_drawing_techniques",
+  "version": "1.0.0",
+  "language": "en",
+  "policy": {
+    "tone": "academic-neutral",
+    "scope": "cartoon and classical animation drawing/animation principles (non-software specific)",
+    "restrictions": [
+      "No tutorial imperatives",
+      "Avoid studio marketing language; use discipline-standard terms",
+      "Provide institutional entry-point references"
+    ]
+  },
+  "items": [
+    {
+      "id": "squash_and_stretch",
+      "label": "Squash and Stretch",
+      "definition": "A principle of deforming forms to convey weight, elasticity, and impact while maintaining structural coherence.",
+      "extended": "Used to make motion read clearly and to communicate material properties; deformation is calibrated to the style system and narrative register.",
+      "tags": [
+        "motion",
+        "character",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning resources (animation principles)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "MoMA — Film & Media context",
+          "url": "https://www.moma.org/"
+        }
+      ]
+    },
+    {
+      "id": "anticipation",
+      "label": "Anticipation",
+      "definition": "A preparatory movement that precedes a main action to enhance clarity and perceived realism.",
+      "extended": "Anticipation signals intent and direction, improving legibility in fast sequences and stylized motion systems.",
+      "tags": [
+        "timing",
+        "motion",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "exaggeration",
+      "label": "Exaggeration",
+      "definition": "Amplification of motion, form, or expression to enhance visual communication.",
+      "extended": "Exaggeration supports legibility and affect by making intent and force visually explicit within a stylized system.",
+      "tags": [
+        "motion",
+        "character",
+        "style"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "staging",
+      "label": "Staging",
+      "definition": "Compositional organization that directs attention and clarifies narrative intent within a shot.",
+      "extended": "Staging uses silhouette, contrast, and spatial arrangement to make actions readable under time constraints.",
+      "tags": [
+        "layout",
+        "analysis",
+        "production"
+      ],
+      "source_entry_points": [
+        {
+          "label": "The Met — Composition analysis entry",
+          "url": "https://www.metmuseum.org/toah/"
+        },
+        {
+          "label": "BFI — Film language resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "follow_through",
+      "label": "Follow-Through",
+      "definition": "Continuation of motion in secondary parts after the primary action concludes.",
+      "extended": "Follow-through supports material realism and dynamic continuity, particularly for hair, clothing, and flexible forms.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning resources",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "timing_spacing",
+      "label": "Timing and Spacing Coordination",
+      "definition": "Coordinating duration and positional intervals to shape perceived weight and speed.",
+      "extended": "Even with the same frame count, different spacing patterns can communicate distinct acceleration profiles and material cues.",
+      "tags": [
+        "timing",
+        "motion",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "arcs",
+      "label": "Arcs",
+      "definition": "Planning motion along curved paths to preserve naturalistic movement cues.",
+      "extended": "Arcs improve perceived fluidity and reduce unintended stiffness in limb and body motion.",
+      "tags": [
+        "motion",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "secondary_action",
+      "label": "Secondary Action",
+      "definition": "Supporting motion that complements the primary action without competing for focus.",
+      "extended": "Secondary action reinforces character psychology and environmental interaction while preserving staging priorities.",
+      "tags": [
+        "character",
+        "story",
+        "analysis"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "appeal",
+      "label": "Appeal (Design Readability)",
+      "definition": "Designing forms and poses that remain clear and engaging under motion and time constraints.",
+      "extended": "Appeal is often treated as a readability and coherence property rather than subjective decoration, tied to silhouette and proportion control.",
+      "tags": [
+        "analysis",
+        "character"
+      ],
+      "source_entry_points": [
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    },
+    {
+      "id": "solid_drawing",
+      "label": "Solid Drawing (Volume Control)",
+      "definition": "Maintaining coherent volume and structure as forms rotate or deform.",
+      "extended": "Volume control supports consistent identity and prevents unintended flattening across frames.",
+      "tags": [
+        "character",
+        "analysis",
+        "production"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "follow_through_overlap",
+      "label": "Follow-Through and Overlap",
+      "definition": "Carrying motion into secondary parts to communicate inertia and material behavior.",
+      "extended": "These cues support realism and rhythm, particularly for cloth, hair, and flexible appendages.",
+      "tags": [
+        "motion",
+        "timing"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        }
+      ]
+    },
+    {
+      "id": "staging_clarity",
+      "label": "Staging Clarity",
+      "definition": "Arranging action so intent is readable at a glance.",
+      "extended": "Staging clarity is achieved through silhouette, contrast, and spatial organization that guides attention reliably over time.",
+      "tags": [
+        "layout",
+        "analysis",
+        "story"
+      ],
+      "source_entry_points": [
+        {
+          "label": "BFI — Learning & resources (film/animation context)",
+          "url": "https://www.bfi.org.uk/"
+        },
+        {
+          "label": "The Met — Heilbrunn Timeline (visual analysis entry)",
+          "url": "https://www.metmuseum.org/toah/"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "instrument_id": "inst_shakuhachi",
+      "common_name": "Shakuhachi",
+      "hs_code": "421.111.12",
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-421.111.12",
+      "short_description": "A Japanese end-blown bamboo flute traditionally used in Zen practice and Japanese court and folk music.",
+      "sources": [
+        {"label": "Encyclopaedia Britannica", "url": "https://www.britannica.com/art/shakuhachi"}
+      ],
+      "examples": [
+        {"provider": "smithsonian", "provider_url": "https://www.si.edu/search?edan_q=shakuhachi"}
+      ]
+    },
+    {
+      "instrument_id": "inst_oud",
+      "common_name": "Oud",
+      "hs_code": "321.322",
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-321.322",
+      "short_description": "A short-necked, fretless plucked lute widely used in Middle Eastern and North African music traditions.",
+      "sources": [
+        {"label": "Encyclopaedia Britannica", "url": "https://www.britannica.com/art/oud"}
+      ],
+      "examples": [
+        {"provider": "vam", "provider_url": "https://collections.vam.ac.uk/search/?q=oud"}
+      ]
+    },
+    {
+      "instrument_id": "inst_marimba",
+      "common_name": "Marimba",
+      "hs_code": "111.212",
+      "hs_uri": "https://www.mimo-db.eu/InstrumentMaker/Concept/HS-111.212",
+      "short_description": "A tuned percussion instrument with wooden bars struck with mallets, typically resonated by tubes, used in classical and popular music.",
+      "sources": [
+        {"label": "Encyclopaedia Britannica", "url": "https://www.britannica.com/art/marimba"}
+      ],
+      "examples": [
+        {"provider": "smithsonian", "provider_url": "https://www.si.edu/search?edan_q=marimba"},
+        {"provider": "vam", "provider_url": "https://collections.vam.ac.uk/search/?q=marimba"}
+      ]
+    }
+  ]
+}

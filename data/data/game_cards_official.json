@@ -1,0 +1,77 @@
+{
+  "policy": "Official IP/publisher sources only. Bot does not reproduce card databases; it lists official game card systems.",
+  "items": [
+    {
+      "name": "Pokémon Trading Card Game",
+      "type": "physical",
+      "publisher": "The Pokémon Company International",
+      "official_url": "https://tcg.pokemon.com/"
+    },
+    {
+      "name": "Pokémon TCG Live",
+      "type": "digital",
+      "publisher": "The Pokémon Company International",
+      "official_url": "https://tcg.pokemon.com/tcgl"
+    },
+    {
+      "name": "Magic: The Gathering",
+      "type": "physical",
+      "publisher": "Wizards of the Coast",
+      "official_url": "https://magic.wizards.com/en"
+    },
+    {
+      "name": "MTG Arena",
+      "type": "digital",
+      "publisher": "Wizards of the Coast",
+      "official_url": "https://magic.wizards.com/en/mtgarena"
+    },
+    {
+      "name": "Yu-Gi-Oh! TRADING CARD GAME",
+      "type": "physical",
+      "publisher": "Konami",
+      "official_url": "https://www.yugioh-card.com/en/"
+    },
+    {
+      "name": "Disney Lorcana Trading Card Game",
+      "type": "physical",
+      "publisher": "Ravensburger",
+      "official_url": "https://www.disneylorcana.com/en-US/"
+    },
+    {
+      "name": "Digimon Card Game",
+      "type": "physical",
+      "publisher": "Bandai",
+      "official_url": "https://world.digimoncard.com/"
+    },
+    {
+      "name": "Dragon Ball Super Card Game",
+      "type": "physical",
+      "publisher": "Bandai",
+      "official_url": "https://www.dbs-cardgame.com/"
+    },
+    {
+      "name": "One Piece Card Game",
+      "type": "physical",
+      "publisher": "Bandai",
+      "official_url": "https://en.onepiece-cardgame.com/"
+    },
+    {
+      "name": "FINAL FANTASY Trading Card Game",
+      "type": "physical",
+      "publisher": "Square Enix",
+      "official_url": "https://fftcg.square-enix-games.com/"
+    },
+    {
+      "name": "Hearthstone",
+      "type": "digital",
+      "publisher": "Blizzard Entertainment",
+      "official_url": "https://hearthstone.blizzard.com/"
+    },
+    {
+      "name": "GWENT: The Witcher Card Game",
+      "type": "digital",
+      "publisher": "CD PROJEKT",
+      "official_url": "https://www.playgwent.com/"
+    }
+  ]
+}

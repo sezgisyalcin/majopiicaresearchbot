@@ -1,0 +1,74 @@
+{
+  "policy": "Official-brand sources only (brand-owned pages). Timeline/map only includes entries with verified founding year and verified region attribution in this dataset.",
+  "regions": [
+    "milan",
+    "florence",
+    "veneto",
+    "rome",
+    "emilia-romagna",
+    "piedmont",
+    "tuscany",
+    "lombardy",
+    "liguria",
+    "campania",
+    "sicily",
+    "sardinia",
+    "unknown"
+  ],
+  "items": [
+    {
+      "name": "Prada",
+      "founded_year": 1913,
+      "region": "milan",
+      "hq_city": "Milan",
+      "country": "Italy",
+      "website": "https://www.prada.com",
+      "one_liner": "An Italian fashion house founded in Milan in 1913."
+    },
+    {
+      "name": "Gucci",
+      "founded_year": 1921,
+      "region": "florence",
+      "hq_city": "Florence",
+      "country": "Italy",
+      "website": "https://www.gucci.com",
+      "one_liner": "An Italian fashion house founded in Florence in 1921."
+    },
+    {
+      "name": "Fendi",
+      "founded_year": 1925,
+      "region": "rome",
+      "hq_city": "Rome",
+      "country": "Italy",
+      "website": "https://www.fendi.com",
+      "one_liner": "An Italian fashion house founded in Rome in 1925."
+    },
+    {
+      "name": "Salvatore Ferragamo",
+      "founded_year": 1927,
+      "region": "florence",
+      "hq_city": "Florence",
+      "country": "Italy",
+      "website": "https://www.ferragamo.com",
+      "one_liner": "An Italian fashion house established in Florence in 1927."
+    },
+    {
+      "name": "Nordica",
+      "founded_year": 1939,
+      "region": "veneto",
+      "hq_city": "Montebelluna",
+      "country": "Italy",
+      "website": "https://www.nordica.com",
+      "one_liner": "An Italian ski brand founded in 1939 in the Montebelluna area."
+    },
+    {
+      "name": "Diadora",
+      "founded_year": 1948,
+      "region": "veneto",
+      "hq_city": "Caerano di San Marco",
+      "country": "Italy",
+      "website": "https://www.diadora.com",
+      "one_liner": "An Italian sportswear and footwear brand serving athletes since 1948."
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "astronomers": [
+    {
+      "name": "Galileo Galilei",
+      "contribution": "Early telescopic observations (e.g., Jupiter’s moons; phases of Venus) that shaped observational astronomy.",
+      "official_sources": [
+        {
+          "label": "Museo Galileo (Florence)",
+          "url": "https://www.museogalileo.it/en/"
+        },
+        {
+          "label": "INAF (Italy’s National Institute for Astrophysics)",
+          "url": "https://www.inaf.it/en/"
+        }
+      ]
+    },
+    {
+      "name": "Giovanni Domenico Cassini",
+      "contribution": "Observations of Saturn and discoveries of major Saturnian moons; influential in early modern astronomy.",
+      "official_sources": [
+        {
+          "label": "INAF",
+          "url": "https://www.inaf.it/en/"
+        }
+      ]
+    },
+    {
+      "name": "Giuseppe Piazzi",
+      "contribution": "Discovery of Ceres (1801), the first identified asteroid (now classified as a dwarf planet).",
+      "official_sources": [
+        {
+          "label": "INAF",
+          "url": "https://www.inaf.it/en/"
+        }
+      ]
+    },
+    {
+      "name": "Angelo Secchi",
+      "contribution": "Pioneer of astronomical spectroscopy and early stellar classification.",
+      "official_sources": [
+        {
+          "label": "Vatican Observatory",
+          "url": "https://www.vaticanobservatory.org/"
+        },
+        {
+          "label": "INAF",
+          "url": "https://www.inaf.it/en/"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "period": "17th century (telescopic astronomy)",
+      "summary": "Systematic telescopic observation became a central method of astronomy, accelerating evidence-based cosmology and planetary studies.",
+      "official_sources": [
+        {
+          "label": "Museo Galileo (Florence)",
+          "url": "https://www.museogalileo.it/en/"
+        },
+        {
+          "label": "INAF",
+          "url": "https://www.inaf.it/en/"
+        }
+      ]
+    },
+    {
+      "period": "19th century (spectroscopy and classification)",
+      "summary": "Spectroscopy and systematic classification emerged as core tools for studying stellar physics and composition.",
+      "official_sources": [
+        {
+          "label": "Vatican Observatory",
+          "url": "https://www.vaticanobservatory.org/"
+        }
+      ]
+    },
+    {
+      "period": "Modern era (national research coordination)",
+      "summary": "Italy’s astronomy ecosystem is coordinated through national research infrastructures and observatories supporting astrophysics and space science.",
+      "official_sources": [
+        {
+          "label": "INAF",
+          "url": "https://www.inaf.it/en/"
+        },
+        {
+          "label": "ASI (Italian Space Agency)",
+          "url": "https://www.asi.it/en/"
+        }
+      ]
+    }
+  ]
+}

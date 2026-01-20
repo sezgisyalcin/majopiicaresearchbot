@@ -1,0 +1,443 @@
+{
+  "version": "1.0.0",
+  "generated_from": "data/*.json (recursive)",
+  "counts": {
+    "domains": 59,
+    "urls": 134
+  },
+  "by_type": {
+    "Institution": 44,
+    "University": 10,
+    "Museum": 3,
+    "Archive/Institute": 1,
+    "Foundation/Government": 1
+  },
+  "domains": [
+    {
+      "domain": "2k.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://2k.com/",
+        "https://2k.com/en-US/games/"
+      ]
+    },
+    {
+      "domain": "archive.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://archive.org/details/adluciliumepistu01seneuoft",
+        "https://archive.org/details/deofficiiswithen00ciceuoft"
+      ]
+    },
+    {
+      "domain": "classics.mit.edu",
+      "type": "University",
+      "example_urls": [
+        "https://classics.mit.edu/Antoninus/meditations.mb.txt",
+        "https://classics.mit.edu/Caesar/gallic.mb.txt"
+      ]
+    },
+    {
+      "domain": "collections.vam.ac.uk",
+      "type": "University",
+      "example_urls": [
+        "https://collections.vam.ac.uk/"
+      ]
+    },
+    {
+      "domain": "en.onepiece-cardgame.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://en.onepiece-cardgame.com/"
+      ]
+    },
+    {
+      "domain": "fftcg.square-enix-games.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://fftcg.square-enix-games.com/"
+      ]
+    },
+    {
+      "domain": "hearthstone.blizzard.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://hearthstone.blizzard.com/"
+      ]
+    },
+    {
+      "domain": "magic.wizards.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://magic.wizards.com/en",
+        "https://magic.wizards.com/en/mtgarena"
+      ]
+    },
+    {
+      "domain": "penelope.uchicago.edu",
+      "type": "University",
+      "example_urls": [
+        "https://penelope.uchicago.edu/Thayer/E/Roman/Texts/augustus/Res_Gestae/1%2A.html"
+      ]
+    },
+    {
+      "domain": "plato.stanford.edu",
+      "type": "University",
+      "example_urls": [
+        "https://plato.stanford.edu/"
+      ]
+    },
+    {
+      "domain": "tcg.pokemon.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://tcg.pokemon.com/",
+        "https://tcg.pokemon.com/tcgl"
+      ]
+    },
+    {
+      "domain": "tesla-museum.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://tesla-museum.org/wp-content/uploads/2023/05/lista_patenata_eng.pdf"
+      ]
+    },
+    {
+      "domain": "thegameawards.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://thegameawards.com/rewind",
+        "https://thegameawards.com/winners"
+      ]
+    },
+    {
+      "domain": "whc.unesco.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://whc.unesco.org/en/list/1024",
+        "https://whc.unesco.org/en/list/1025",
+        "https://whc.unesco.org/en/list/1026"
+      ]
+    },
+    {
+      "domain": "world.digimoncard.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://world.digimoncard.com/"
+      ]
+    },
+    {
+      "domain": "arts.ac.uk",
+      "type": "University",
+      "example_urls": [
+        "https://www.arts.ac.uk/",
+        "https://www.arts.ac.uk/colleges/london-college-of-fashion"
+      ]
+    },
+    {
+      "domain": "asi.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.asi.it/en/"
+      ]
+    },
+    {
+      "domain": "bafta.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.bafta.org/awards/games/",
+        "https://www.bafta.org/awards/search/?query={year}"
+      ]
+    },
+    {
+      "domain": "berklee.edu",
+      "type": "University",
+      "example_urls": [
+        "https://www.berklee.edu/"
+      ]
+    },
+    {
+      "domain": "bfi.org.uk",
+      "type": "Archive/Institute",
+      "example_urls": [
+        "https://www.bfi.org.uk/"
+      ]
+    },
+    {
+      "domain": "britannica.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.britannica.com/"
+      ]
+    },
+    {
+      "domain": "cambridge.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.cambridge.org/core/what-we-publish/subjects/music"
+      ]
+    },
+    {
+      "domain": "dbs-cardgame.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.dbs-cardgame.com/"
+      ]
+    },
+    {
+      "domain": "diadora.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.diadora.com"
+      ]
+    },
+    {
+      "domain": "disneylorcana.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.disneylorcana.com/en-US/"
+      ]
+    },
+    {
+      "domain": "dwd.de",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.dwd.de/"
+      ]
+    },
+    {
+      "domain": "fendi.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.fendi.com"
+      ]
+    },
+    {
+      "domain": "ferragamo.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.ferragamo.com"
+      ]
+    },
+    {
+      "domain": "gucci.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.gucci.com"
+      ]
+    },
+    {
+      "domain": "harvard.edu",
+      "type": "University",
+      "example_urls": [
+        "https://www.harvard.edu/"
+      ]
+    },
+    {
+      "domain": "inaf.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.inaf.it/en/"
+      ]
+    },
+    {
+      "domain": "interactive.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.interactive.org/awards/"
+      ]
+    },
+    {
+      "domain": "iuav.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.iuav.it/en/"
+      ]
+    },
+    {
+      "domain": "jma.go.jp",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.jma.go.jp/jma/indexe.html"
+      ]
+    },
+    {
+      "domain": "jpf.go.jp",
+      "type": "Foundation/Government",
+      "example_urls": [
+        "https://www.jpf.go.jp/"
+      ]
+    },
+    {
+      "domain": "maxxi.art",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.maxxi.art/en/"
+      ]
+    },
+    {
+      "domain": "meteoam.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.meteoam.it/"
+      ]
+    },
+    {
+      "domain": "metmuseum.org",
+      "type": "Museum",
+      "example_urls": [
+        "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute",
+        "https://www.metmuseum.org/art/collection",
+        "https://www.metmuseum.org/toah/"
+      ]
+    },
+    {
+      "domain": "metoffice.gov.uk",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.metoffice.gov.uk/"
+      ]
+    },
+    {
+      "domain": "mgm.gov.tr",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.mgm.gov.tr/"
+      ]
+    },
+    {
+      "domain": "moma.org",
+      "type": "Museum",
+      "example_urls": [
+        "https://www.moma.org/"
+      ]
+    },
+    {
+      "domain": "museivaticani.va",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.museivaticani.va/"
+      ]
+    },
+    {
+      "domain": "museogalileo.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.museogalileo.it/en/"
+      ]
+    },
+    {
+      "domain": "nationalgallery.org.uk",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.nationalgallery.org.uk/research"
+      ]
+    },
+    {
+      "domain": "nordica.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.nordica.com"
+      ]
+    },
+    {
+      "domain": "nyu.edu",
+      "type": "University",
+      "example_urls": [
+        "https://www.nyu.edu/"
+      ]
+    },
+    {
+      "domain": "oxfordmusiconline.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.oxfordmusiconline.com/"
+      ]
+    },
+    {
+      "domain": "perseus.tufts.edu",
+      "type": "University",
+      "example_urls": [
+        "https://www.perseus.tufts.edu/"
+      ]
+    },
+    {
+      "domain": "playgwent.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.playgwent.com/"
+      ]
+    },
+    {
+      "domain": "polimi.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.polimi.it/en"
+      ]
+    },
+    {
+      "domain": "prada.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.prada.com"
+      ]
+    },
+    {
+      "domain": "rockstargames.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.rockstargames.com/",
+        "https://www.rockstargames.com/gta-v"
+      ]
+    },
+    {
+      "domain": "teatroallascala.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.teatroallascala.org/en/index.html"
+      ]
+    },
+    {
+      "domain": "uffizi.it",
+      "type": "Museum",
+      "example_urls": [
+        "https://www.uffizi.it/en"
+      ]
+    },
+    {
+      "domain": "unibo.it",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.unibo.it/en"
+      ]
+    },
+    {
+      "domain": "vam.ac.uk",
+      "type": "University",
+      "example_urls": [
+        "https://www.vam.ac.uk/"
+      ]
+    },
+    {
+      "domain": "vaticanobservatory.org",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.vaticanobservatory.org/"
+      ]
+    },
+    {
+      "domain": "weather.gov",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.weather.gov/"
+      ]
+    },
+    {
+      "domain": "yugioh-card.com",
+      "type": "Institution",
+      "example_urls": [
+        "https://www.yugioh-card.com/en/"
+      ]
+    }
+  ]
+}

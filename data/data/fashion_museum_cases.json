@@ -1,0 +1,65 @@
+{
+  "va_textiles": {
+    "label": "V&A Case Route: Textiles & Dress Collection Pathway",
+    "goal": "Route to object-based research and collection contexts for 19th–20th century dress.",
+    "steps": [
+      "Start from V&A landing pages for collections and research.",
+      "Use collection search and object records to locate garments by period/material/technique.",
+      "Follow research essays/exhibition pages when available; cross-check with university library catalogues."
+    ],
+    "official_links": [
+      {
+        "label": "Victoria and Albert Museum (official)",
+        "url": "https://www.vam.ac.uk/",
+        "kind": "museum"
+      },
+      {
+        "label": "V&A Collections (official)",
+        "url": "https://collections.vam.ac.uk/",
+        "kind": "museum"
+      }
+    ]
+  },
+  "met_costume_institute": {
+    "label": "Met Case Route: Costume Institute Pathway",
+    "goal": "Route to institutional collection area and research framing for historical fashion topics.",
+    "steps": [
+      "Open the Costume Institute collection area page.",
+      "Use The Met Collection search to locate objects by era/designer/material.",
+      "Prefer museum essays/exhibitions catalogues; cross-route to university syllabi and library holdings."
+    ],
+    "official_links": [
+      {
+        "label": "The Met · Costume Institute (official)",
+        "url": "https://www.metmuseum.org/about-the-met/collection-areas/the-costume-institute",
+        "kind": "museum"
+      },
+      {
+        "label": "The Met Collection (official)",
+        "url": "https://www.metmuseum.org/art/collection",
+        "kind": "museum"
+      }
+    ]
+  },
+  "lcf_design_history": {
+    "label": "LCF Case Route: Fashion History & Theory (Academic Pathway)",
+    "goal": "Route to academic programs and library-based research pathways for 19th–20th century fashion theory.",
+    "steps": [
+      "Start from UAL/LCF official pages (programs/research).",
+      "Use institutional library catalogues and reading lists where publicly available.",
+      "Cross-check museum catalogues (V&A/Met) for object-based primary sources."
+    ],
+    "official_links": [
+      {
+        "label": "London College of Fashion (UAL, official)",
+        "url": "https://www.arts.ac.uk/colleges/london-college-of-fashion",
+        "kind": "university"
+      },
+      {
+        "label": "University of the Arts London (official)",
+        "url": "https://www.arts.ac.uk/",
+        "kind": "university"
+      }
+    ]
+  }
+}

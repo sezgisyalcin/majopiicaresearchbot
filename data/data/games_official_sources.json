@@ -1,0 +1,30 @@
+{
+  "bioshock infinite": {
+    "official_sources": [
+      {
+        "label": "2K Games \u00b7 Official Site",
+        "url": "https://2k.com/",
+        "kind": "official_platform"
+      },
+      {
+        "label": "2K Games \u00b7 Games",
+        "url": "https://2k.com/en-US/games/",
+        "kind": "official_platform"
+      }
+    ]
+  },
+  "grand theft auto v": {
+    "official_sources": [
+      {
+        "label": "Rockstar Games \u00b7 Official Site",
+        "url": "https://www.rockstargames.com/",
+        "kind": "official_platform"
+      },
+      {
+        "label": "Rockstar \u00b7 GTA V",
+        "url": "https://www.rockstargames.com/gta-v",
+        "kind": "official_platform"
+      }
+    ]
+  }
+}

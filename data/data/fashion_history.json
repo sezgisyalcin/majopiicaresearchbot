@@ -1,0 +1,20 @@
+{
+  "19th_century": {
+    "label": "19th-Century Fashion Theory",
+    "short": "Fashion shaped by industrialization, class distinction, and early consumer culture.",
+    "extended": "19th-century fashion theory is discussed through industrial modernity, class signaling, and the emergence of mass production and bourgeois taste.",
+    "research": "Consult university fashion history programs, museum costume institutes, and peer-reviewed historical studies."
+  },
+  "early_20th_century": {
+    "label": "Early 20th-Century Fashion Theory",
+    "short": "Fashion influenced by modernism, social reform, and changing gender roles.",
+    "extended": "Early 20th-century discussions focus on modernism, functionalism, and shifting norms of dress in relation to social change.",
+    "research": "Refer to institutional archives, design history departments, and modernist studies in academic literature."
+  },
+  "late_20th_century": {
+    "label": "Late 20th-Century Fashion Theory",
+    "short": "Postmodernism, identity politics, and global fashion systems.",
+    "extended": "Late 20th-century fashion theory engages with postmodernism, semiotics, subcultures, and globalization.",
+    "research": "Use cultural studies journals, university libraries, and museum research portals for peer-reviewed analysis."
+  }
+}

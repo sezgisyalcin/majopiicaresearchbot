@@ -1,0 +1,18 @@
+{
+  "total_quotes": 500,
+  "distribution_locked": {
+    "Cicero": 120,
+    "Julius Caesar": 110,
+    "Seneca": 90,
+    "Marcus Aurelius": 90,
+    "Augustus": 90
+  },
+  "authors": [
+    "Cicero",
+    "Julius Caesar",
+    "Seneca",
+    "Marcus Aurelius",
+    "Augustus"
+  ],
+  "notes": "Quotes extracted programmatically from freely accessible sources; verify licensing per source_url."
+}

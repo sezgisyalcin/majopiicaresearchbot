@@ -1,0 +1,19 @@
+{
+  "policy": "Public-domain or licensed translations only, with scholarly source links per quote.",
+  "items": [
+    {
+      "author": "Plato",
+      "work": "Republic",
+      "reference": "I",
+      "quote": "(dataset pending: add PD translation excerpt here)",
+      "source_url": "https://www.perseus.tufts.edu/"
+    },
+    {
+      "author": "Aristotle",
+      "work": "Nicomachean Ethics",
+      "reference": "I",
+      "quote": "(dataset pending: add PD translation excerpt here)",
+      "source_url": "https://www.perseus.tufts.edu/"
+    }
+  ]
+}
