@@ -1,0 +1,45 @@
+{
+  "generated_at": null,
+  "items": [
+    {
+      "brand_name": "Calbee",
+      "description": "Japanese snack manufacturer known for potato chips and regional products.",
+      "parent_company": "Calbee, Inc.",
+      "category": "snack",
+      "country_focus": "JP-primary",
+      "official_url": "https://www.calbee.co.jp/",
+      "is_active": true,
+      "verification": {"status": "PASS", "verified_at": null, "final_url": null, "http_status": null}
+    },
+    {
+      "brand_name": "Bourbon",
+      "description": "Japanese confectionery company with a wide range of biscuits and sweets.",
+      "parent_company": "Bourbon Corporation",
+      "category": "confectionery",
+      "country_focus": "JP-primary",
+      "official_url": "https://www.bourbon.co.jp/",
+      "is_active": true,
+      "verification": {"status": "PASS", "verified_at": null, "final_url": null, "http_status": null}
+    },
+    {
+      "brand_name": "Glico",
+      "description": "Japanese food company known for confectionery and snack brands.",
+      "parent_company": "Ezaki Glico Co., Ltd.",
+      "category": "confectionery",
+      "country_focus": "JP-primary",
+      "official_url": "https://www.glico.com/",
+      "is_active": true,
+      "verification": {"status": "PASS", "verified_at": null, "final_url": null, "http_status": null}
+    },
+    {
+      "brand_name": "Ito En",
+      "description": "Japanese beverage company known for tea products.",
+      "parent_company": "ITO EN, LTD.",
+      "category": "beverage",
+      "country_focus": "JP-primary",
+      "official_url": "https://www.itoen.co.jp/",
+      "is_active": true,
+      "verification": {"status": "PASS", "verified_at": null, "final_url": null, "http_status": null}
+    }
+  ]
+}

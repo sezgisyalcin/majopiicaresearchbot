@@ -1,0 +1,124 @@
+{
+  "items": [
+    {
+      "name": "Koto",
+      "classification": "Chordophone (zither)",
+      "country": "Japan",
+      "description": "Traditional Japanese plucked zither used in gagaku and modern ensembles.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/koto",
+        "Hornbostel–Sachs overview: https://www.britannica.com/topic/Hornbostel-Sachs-classification"
+      ]
+    },
+    {
+      "name": "Djembe",
+      "classification": "Membranophone (goblet drum)",
+      "region": "West Africa",
+      "description": "Hand drum widely used in West African musical traditions.",
+      "sources": [
+        "Smithsonian Folkways (context): https://folkways.si.edu/",
+        "MIMO (museum instrument database): https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Didgeridoo",
+      "classification": "Aerophone",
+      "region": "Northern Australia",
+      "description": "Wind instrument developed by Aboriginal Australian peoples.",
+      "sources": [
+        "Australian Museum (context): https://australian.museum/",
+        "Britannica: https://www.britannica.com/art/didgeridoo"
+      ]
+    },
+    {
+      "name": "Sitar",
+      "classification": "Chordophone (lute)",
+      "region": "South Asia",
+      "description": "Long-necked plucked lute used in Hindustani classical music.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/sitar",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Mbira (thumb piano)",
+      "classification": "Idiophone (lamellophone)",
+      "region": "Southern Africa",
+      "description": "Lamellophone used in Shona and related musical traditions.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/mbira",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Oud",
+      "classification": "Chordophone (lute)",
+      "region": "Middle East",
+      "description": "Short-necked fretless lute, ancestor to many European lutes.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/oud",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Uilleann pipes",
+      "classification": "Aerophone (bagpipe)",
+      "country": "Ireland",
+      "description": "Irish bagpipe played with bellows; central to traditional Irish music.",
+      "sources": [
+        "Encyclopaedia Britannica (bagpipes overview): https://www.britannica.com/art/bagpipe",
+        "Na Píobairí Uilleann (organization): https://pipers.ie"
+      ]
+    },
+    {
+      "name": "Nyckelharpa",
+      "classification": "Chordophone (keyed fiddle)",
+      "country": "Sweden",
+      "description": "Swedish keyed bowed string instrument with sympathetic strings.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/nyckelharpa",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Bandoneon",
+      "classification": "Aerophone (free reed)",
+      "region": "Argentina / Uruguay",
+      "description": "Free-reed instrument strongly associated with tango ensembles.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/bandoneon",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Erhu",
+      "classification": "Chordophone (bowed lute)",
+      "country": "China",
+      "description": "Two-stringed bowed instrument used in Chinese classical and folk music.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/erhu",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Marimba",
+      "classification": "Idiophone (xylophone family)",
+      "region": "Central America / Global",
+      "description": "Keyboard percussion instrument with resonator tubes; prominent in Central American traditions.",
+      "sources": [
+        "Britannica: https://www.britannica.com/art/marimba",
+        "MIMO: https://mimo-international.com"
+      ]
+    },
+    {
+      "name": "Guqin",
+      "classification": "Chordophone (zither)",
+      "country": "China",
+      "description": "Seven-string plucked zither; associated with Chinese literati traditions.",
+      "sources": [
+        "UNESCO Intangible Cultural Heritage (guqin art): https://ich.unesco.org",
+        "Britannica: https://www.britannica.com/art/qin"
+      ]
+    }
+  ]
+}

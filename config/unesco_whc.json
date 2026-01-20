@@ -1,0 +1,18 @@
+{
+  "name": "unesco_whc001",
+  "ckan_datastore_search_url": "https://data.unesco.org/api/3/action/datastore_search",
+  "resource_id": "REPLACE_WITH_RESOURCE_UUID",
+  "page_size": 500,
+  "limit": 0,
+  "output": {
+    "jsonl": "data/whc/whc_sites.jsonl",
+    "index": "data/whc/whc_sites_index.json"
+  },
+  "pinning": {
+    "mode": "strict",
+    "expected_domain": "data.unesco.org",
+    "require_https": true,
+    "allow_redirects": false
+  },
+  "lock_file": "config/unesco_whc.lock.json"
+}

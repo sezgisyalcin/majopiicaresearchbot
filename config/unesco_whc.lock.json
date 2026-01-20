@@ -1,0 +1,10 @@
+{
+  "name": "unesco_whc001",
+  "pinned": {
+    "ckan_datastore_search_url": "https://data.unesco.org/api/3/action/datastore_search",
+    "resource_id": "REPLACE_WITH_RESOURCE_UUID"
+  },
+  "last_synced_utc": null,
+  "record_count": null,
+  "notes": "This lock file is updated by scripts/sync_unesco_whc001.py. CI will fail if config pinning changes unexpectedly."
+}
