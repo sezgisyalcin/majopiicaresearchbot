@@ -1,0 +1,6 @@
+{
+  "mode": "seed",
+  "sparql_endpoint": "",
+  "seed_path": "data/instruments/hs_seed.json",
+  "out_path": "data/instruments/hs_concepts.json"
+}

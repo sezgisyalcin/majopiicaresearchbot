@@ -1,0 +1,9 @@
+{
+  "pins": {
+    "mode": "seed",
+    "sparql_endpoint": "",
+    "seed_path": "data/instruments/hs_seed.json",
+    "out_path": "data/instruments/hs_concepts.json"
+  },
+  "output_sha256": "dd69357425f6a6a1c574a2db30c9af348657a44e633d3836a658b741662bcbe1"
+}

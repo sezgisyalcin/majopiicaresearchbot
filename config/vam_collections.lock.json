@@ -1,0 +1,7 @@
+{
+  "pins": {
+    "base_url": "https://api.vam.ac.uk",
+    "search_path": "/v2/objects/search"
+  },
+  "output_sha256": ""
+}

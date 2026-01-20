@@ -1,0 +1,7 @@
+{
+  "pins": {
+    "base_url": "https://api.si.edu",
+    "search_path": "/openaccess/api/v1.0/search"
+  },
+  "output_sha256": ""
+}

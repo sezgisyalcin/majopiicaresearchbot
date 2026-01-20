@@ -1,0 +1,9 @@
+{
+  "entities_path": "data/instruments/instrument_entities.json",
+  "smithsonian_cache_jsonl": "data/instruments/cache/smithsonian_examples.jsonl",
+  "vam_cache_jsonl": "data/instruments/cache/vam_examples.jsonl",
+  "max_examples_per_provider": 2,
+  "max_total_examples": 5,
+  "match_fields": ["title", "description", "keywords", "hs_code"],
+  "keyword_min_length": 3
+}

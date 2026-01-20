@@ -1,0 +1,15 @@
+{
+  "base_url": "https://api.si.edu",
+  "search_path": "/openaccess/api/v1.0/search",
+  "out_path": "data/instruments/cache/smithsonian_examples.jsonl",
+  "lock_path": "config/smithsonian_openaccess.lock.json",
+  "rows_per_page": 50,
+  "max_rows_per_query": 200,
+  "queries": [
+    "musical instrument",
+    "aerophone",
+    "idiophone",
+    "membranophone",
+    "chordophone"
+  ]
+}

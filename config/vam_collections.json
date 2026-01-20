@@ -1,0 +1,22 @@
+{
+  "base_url": "https://api.vam.ac.uk",
+  "search_path": "/v2/objects/search",
+  "out_path": "data/instruments/cache/vam_examples.jsonl",
+  "lock_path": "config/vam_collections.lock.json",
+  "rows_per_page": 45,
+  "max_pages": 5,
+  "queries": [
+    {
+      "q": "musical instrument",
+      "images": 1
+    },
+    {
+      "q": "aerophone",
+      "images": 1
+    },
+    {
+      "q": "chordophone",
+      "images": 1
+    }
+  ]
+}
